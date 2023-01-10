@@ -1,0 +1,533 @@
+Annual Report 2021
+ Introduction 2021 saw increasing recognition that the biodiversity and climate challenges are two sides of the same coin – we cannot address the climate crisis without also halting and reversing the loss of biodiversity. The eyes of the world were on Glasgow for the COP26 climate summit, where nature was part of the climate discussions more than ever before. Leading organisations around the world are recognising the importance of managing nature-related risks and opportunities alongside climate risk.
+
+You can’t manage what you can’t measure, and for over a decade IBAT has provided access to biodiversity data in an integrated and intuitive fashion, helping users to assess biodiversity related risk. The World Database on Protected Areas, the World Database of Key Biodiversity Areas, and the IUCN Red List of Threatened Species are three of the most globally authoritative biodiversity datasets, and play a crucial role in informing conservation and private sector decision-making.
+
+In recognition of the crucial role that businesses can play in reducing biodiversity loss, many are increasingly moving beyond just assessing biodiversity related risk and seeking to identify opportunities to become more nature positive.
+It is into this evolving landscape that IBAT launched STAR – the Species Threat Abatement and Restoration metric. Released at the IUCN World Conservation Congress in Marseille, STAR allows businesses to quantify their contribution to reducing global species extinction risk.
+
+As organisations seek to align with global biodiversity goals and set science-based targets for nature, STAR is a powerful new tool to help guide nature positive action. – Edward Ellis, IBAT Manager
+
+Background
+IBAT is a web-based map and reporting tool that provides fast, easy and integrated access to three of the world’s most authoritative global biodiversity datasets:
+
+IBAT is developed and maintained by the IBAT Alliance (BirdLife International, Conservation International, UN Environment Programme World Conservation Monitoring Centre (UNEP‑WCMC), and IUCN) with the aim to enable users to make informed decisions in policy and practice.
+
+The IBAT team are based at the David Attenborough Building, a vibrant hub for leading conservation organisations.
+
+“Our common vision is that decisions affecting critical biodiversity should be informed by the best and most up to date scientific information and the decision‑makers who use that information should help support its
+generation and maintenance” – IBAT Alliance Partners
+
+STAR 10,000 Users
+
+The most significant and exciting development to IBAT during 2021 was the launch of the Species Threat Abatement and Restoration Metric (STAR) at the IUCN World Conservation Congress in September. Following the publication of the STAR methodology in Nature, the IBAT team worked hard to deliver the STAR Metric in a user-friendly and accessible way, in line with business needs. This development work resulted in the release of three STAR-related functionalities in IBAT:
+
+During 2021, IBAT’s user base reached 10,000 users – and growing! This explosive growth in users has tracked the increase in awareness about the biodiversity crisis by businesses and the recognition of the need to act. This increased growth can also be attributed to new initiatives like the launch of the Taskforce on Nature‑related Financial Disclosures (TNFD) beta framework, and implementation of the Sustainable Finance Disclosure Regulation (SFDR) ESG disclosure requirements, as well as the increasing need for transparency in corporate sustainability reporting.
+
+1. STAR Data Map. IBAT’s data map is a popular tool for high-level visual screening and context. The global STAR layer was added to the map and is visible at a granularity of 5km2 for subscribers, while the global layer is downloadable for use in GIS analysis.
+2. STAR Report. A brand-new report was developed, emulating IBAT’s traditional project-level screening options and delivering comprehensive information on the opportunities to reduce species extinction risk and which threats to mitigate to deliver maximum impact.
+3. STAR Multi-site assessment. Companies are increasingly conducting corporate biodiversity assessments at scale, and it was important that organisations could access insights on STAR across global assets. The integration of STAR with our Multi-site Report has allowed IBAT users to identify opportunities for positive biodiversity action by quickly ranking their sites based on total and mean STAR scores.
+The STAR Metric was developed at a crucial point in time as businesses are increasingly required to demonstrate positive biodiversity actions, as well as set science-based targets. STAR now enables businesses to avoid the addition of cumulative impacts to species and to quantify what contributions they can make to reducing threats to species.
+STAR was first launched in beta to enable businesses to provide feedback and shape the future development of the metric. We
+saw rapid uptake and interest in STAR, with valuable feedback from a number of IBAT subscribers, as well as first‑time users of the tool. The STAR beta will continue into 2022.
+
+New Staff
+In 2021, the IBAT Secretariat grew from strength-to-strength.
+We welcomed three new staff to support the growth and
+delivery of IBAT. Masum Hussain joined us as IBAT’s new
+Finance & Administrative Officer, taking over from Nikita Ellis
+who after 3 dedicated years with IBAT, has moved on to
+other responsibilities within BirdLife International. Masum
+joined IBAT from a software consultancy, where he also
+managed finance and administrative responsibilities, as well
+as managing key account customer projects and building a
+digital marketing strategy. Later in 2021, we also welcomed
+Miguel Torres as IBAT’s new Technical Officer – leading the
+technical development of the tool. Miguel joined us with a
+wealth of development experience as a software engineer
+having delivered health data insights, public transport Wi-Fi
+and even having worked at UNEP‑WCMC using GIS for land
+use planning. Miguel is supported by Ayushi Rathore, our new
+Web Developer. Ayushi is based in India and joins us with
+years of experience in software development using Ruby on
+Rails. Additional technical capacity was provided by Jono
+Feist and Stanley Liu from UNEP‑WCMC, who delivered many
+improvements and new functionalities to the IBAT platform.
+
+Users on the IBAT platform. A 63% increase since 2020.
+
+One of IBAT’s most popular functionalities
+is our biodiversity data report delivered as a
+package that includes a PDF document, raw
+data in CSV format, and map files. Our report
+templates include a biodiversity Proximity
+Report, a World Bank Group risk report
+(IFC PS6 – WB ESS6), a Freshwater Report,
+a STAR Report and a Multi-site Report see sample downloads.
+
+User stories
+
+IBAT has always put users at the heart of its development.
+It was initially co-developed with private sector users to
+support early stage biodiversity risk screening, for example
+screening against World Bank Group’s biodiversity
+performance standards. This remains one of the core
+applications of the tool but it is now also used in a range of
+circumstances and by a wide set of users including the Asian
+Development Bank, Asian Infrastructure Investment Bank,
+Evonik, IFC, International Olympic Committee, and Olam.
+
+Finnfund
+"Our investments are required to comply with
+the IFC (International Finance Corporation)
+Performance Standard 6 and as a European
+DFI, we are committed to ensuring biodiversity
+protection and conservation. In this regard,
+IBAT has become a crucial tool during
+our screening phase on biodiversity.
+Our team of Environmental and Social Advisers
+have utilised the tool to screen projects in different
+sectors and regions with various levels of risks
+and impacts. I work with forestry and renewable
+energy projects, and the tool gives me a quick
+visual overview of the potential risks and probable
+red flags in terms of biodiversity and ecosystem
+services. IBAT also allows me to integrate my
+analysis with other GIS tools, which increases
+the depth of my scrutiny. We are looking forward
+to utilising the new STAR functionality!".
+– Harold Gordillo Manager, Senior Environmental
+and Social Adviser, Finnfund
+
+GSK
+
+FMO
+"IBAT is applied at an early stage of FMO’s
+investment process, during its first selection
+of clients. The tool provides the development
+bank guidance to inform its decisions
+and is used as a basic risk screening on
+biodiversity to provide a first overview on IUCN
+Red List of Threatened Species, Protected
+Areas, and Key Biodiversity Areas.
+When it is found, for instance, that a project site
+encroaches an area that is home to a diverse
+and unique range of species and ecosystems...
+FMO may decide not to proceed with the
+
+evaluation of the opportunity, in line with FMO’s
+exclusion list and applicable ESG requirements
+outlined in its public Sustainability policy.
+However, if risks and impacts can be managed
+in line with FMO’s ESG risk appetite, IBAT results
+are taken along during the next stage of the
+investment process... FMO’s ESG specialists
+would then continue to use IBAT as a monitoring
+tool throughout the lifetime of the investment to
+ensure that biodiversity risks are continuously and
+
+GSK is a science-led healthcare company with
+a special purpose to improve the quality of
+human life. “We believe that global efforts are
+needed to stop activities that drive biodiversity
+loss, to reduce the exploitation of high
+biodiversity regions, to conserve protected
+areas and to mitigate climate impact.
+IBAT provides essential screening on threatened
+species and endangered habitats that
+helps us assess risks, focus accompanying
+investigations, and prioritise restoration
+
+correctly categorized, assessed, and mitigated."
+
+activities at our operating sites globally.”
+
+– Published in PBAF 2022
+
+– Marguerite Murray, Biodiversity Lead, GSK
+
+Allianz Group
+Allianz Group is one of the world’s largest financial
+service providers offering property and casualty
+(P&C) insurance, life/health insurance and
+asset management. Integration of sustainability
+in our underwriting and investment activities
+across the above-mentioned segments has
+been a long-standing priority for Allianz.
+Since 2012, Allianz has continuously worked
+on implementing processes to manage
+sustainability-related risks across our business.
+This included introducing guidelines for the
+management of such risks across our P&C
+insurance and non-listed investment (real estate,
+infrastructure, renewables, etc.) transactions.
+
+Karijini National Park, Australia
+World Database on Protected Areas
+
+When an underwriter or investment manager
+identifies a potential risk based on one of our
+sustainability guidelines, the transaction is
+referred for review by one of our sustainability
+centres of competence. These teams then assess
+the biodiversity impacts of insurance clients
+or of potential investment targets (mainly in
+the alternative assets space, i.e. infrastructure
+investments, real estate, renewable energy) on
+their local environment. For this, the teams need to
+understand threatened species, protected areas,
+and other indicators of biodiversity. Should certain
+risks be identified, they will be evaluated and may
+
+lead to us adding conditions to our insurance
+offers or investment proposals to mitigate such
+a risk or to decline a transaction if we do not see
+viable mitigation options. IBAT is one of several
+tools we use, however it is the only geo-location
+based tool for biodiversity-related information.
+It is mainly used for insurance and investment
+transactions with direct physical locations (such
+as a wind farm, or other infrastructure projects).
+As the topic of biodiversity increases in
+importance across the financial services
+sector, we are also using IBAT for portfoliolevel analyses of biodiversity-related risks.
+Allianz France, recently published the
+results of their biodiversity risk assessment
+performed on their investment portfolio in
+their Sustainable Investment Report 2021.
+The underlying data for the analysis was
+in part based on IBAT’s GIS data for Key
+Biodiversity Areas and the IUCN Red List.
+As the insurance and investment worlds
+are increasing our digitization efforts,
+we also see opportunities for further
+integration of IBAT data into our insurance,
+reinsurance, and investment GIS systems.
+– Nico Ahn, Senior Manager, Global Sustainability at Allianz
+
+Bringing
+data to life
+Described by our users as “a must for
+any project on biodiversity conservation”,
+IBAT offers a ‘one-stop shop’ data search
+service for those seeking authoritative
+global biodiversity information. IBAT
+subscriptions, in turn, help update
+and maintain these datasets.
+
+IUCN Red List of
+Threatened Species™
+
+World Database on
+Protected Areas
+
+World Database of
+Key Biodiversity Areas
+
+Andringitra National Park, Madagascar
+World Database on Protected Areas
+World Database of Key Biodiversity Areas
+
+World Database on
+Protected Areas
+The World Database on
+Protected Areas (WDPA)
+is the authoritative source
+of data on protected
+areas, and is updated on a
+monthly basis. Since 2019,
+it has been accompanied
+by a companion database
+on other effective
+area‑based conservation
+measures (OECMs).
+
+The WDPA is a joint product between UNEP and
+IUCN, and is managed by UNEP-WCMC. The team
+works continuously with representatives from
+governments, communities and collaborative
+partners, as well as international convention
+secretariats. The WDPA and World Database on
+OECMs are key components of the Protected
+Planet initiative, which is the most authoritative
+global platform providing the world’s decision
+makers and the community of practitioners
+with the best possible information, knowledge
+and tools for understanding protected and
+conserved areas at national and global levels.
+
+Progress to date in coverage of protected areas
+
+The funding provided by the IBAT Alliance
+in 2020, alongside contributions from other
+sources, enabled the WDPA to form the basis
+of the Protected Planet Report 2020: the final
+report card on progress towards the global
+10‑year target on protected and conserved
+areas which aimed to bring important benefits
+to both biodiversity and people by 2020.
+In 2021, the IBAT Alliance income enabled
+the Protected Planet Initiative to build on
+this success through the improvement and
+updating of protected and conserved area data.
+Approximately 67% of WDPA and World Database
+on OECM records were updated or added in 2021.
+
+As of December 2021, 22.7 million km² (16.80%)
+of land and inland water ecosystems and
+29.0 million km² (8.01%) of coastal waters
+and the ocean were within documented
+protected and conserved areas. A new target
+for protected and conserved areas will be
+agreed at the UN Biodiversity Conference in
+December 2022, and funding from the IBAT
+Alliance will support UNEP-WCMC in tracking
+progress towards this target up to 2030.
+
+World Database of
+Key Biodiversity Areas
+The World Database of Key
+Biodiversity Areas (WDKBA)
+compiles the data on all sites
+of significance for the global
+persistence of biodiversity.
+It is managed by BirdLife International on
+behalf of the KBA Partnership, a consortium
+of 13 of the world’s leading conservation
+organisations. Sites are identified nationally
+through inclusive processes involving all relevant
+stakeholders. The criteria used to identify KBAs
+focus on five aspects of biodiversity value:
+1. Threatened species/ecosystems
+2. Species/ecosystems with restricted ranges
+3. Intact sites with minimal human impact
+4. Biological processes such as
+congregations of species
+5. Sites of high irreplaceability
+The total number of confirmed KBAs has now
+reached 16,356, covering more than 20 million
+km² of land and sea. These sites have been
+identified as important for 13,762 species that
+‘trigger’ KBA criteria. In 2021, 138 new KBAs
+were confirmed in the database, while many
+others were updated or had their documentation
+improved, including correcting minor delineation
+errors. Birds comprise 44% of species for which
+KBAs have been identified, while the proportions
+of plant and amphibian trigger species have
+increased (reaching 25% and 10% respectively).
+
+By the end of 2021, KBA National Coordination
+Groups (KBA NCGs) had been established in 14
+countries to update national KBA inventories
+and identify new KBAs, with 13 additional
+countries in the process of establishing KBA
+NCGs. For example, the Canadian KBA NCG
+is currently undertaking a comprehensive
+assessment of KBAs across all the territories
+of Canada assessing multiple taxonomic
+groups of species, as well as ecosystems.
+Meanwhile, South Africa is in the process of
+completing its major assessment of KBAs across
+thousands of species (in multiple taxonomic
+groups) and hundreds of ecosystem types.
+With the support of funding from the Garfield
+Weston Foundation to BirdLife International,
+work started in 2021 on redevelopment of the
+WDKBA. This makes it easier to identify new
+
+KBAs, update assessments of existing KBAs,
+and document why each site is important for
+biodiversity. It also supports more effective
+collaboration on KBA proposals, streamlines the
+review, approval, and confirmation processes,
+and underpins more effective provision of access
+to the KBA dataset, particularly through IBAT.
+In 2021 we also improved access to the data
+by redesigning the online dashboard on the
+KBA website, enabling users to apply more
+sophisticated queries to the dataset and
+generate statistics on the species triggering
+KBAs, their threats and habitats, as well as
+the protected area coverage of KBAs.
+In 2021, KBAs received considerable profile
+during the negotiations on the Global Biodiversity
+Framework though the Convention on Biological
+
+Diversity. There is a growing momentum behind
+a target to conserving 30% of land and seas by
+2030 under this framework. KBAs provide the
+best tool to identify areas of importance for
+biodiversity on which to focus site conservation
+efforts (e.g. designation and management of
+protected areas), because of the standardized
+and quantitative approach to KBA identification,
+and the existence of a global network of KBAs.
+The coverage of KBAs by protected areas is an
+existing indicator for Sustainable Development
+Goals 14 and 15 and has been identified by
+the CBD as an indicator for tracking progress
+towards the Global Biodiversity Framework.
+
+IUCN Red List of
+Threatened Species
+More than 40,080 species
+are threatened with extinction
+That is 28% of all assessed species.
+
+The IUCN Red List of
+Threatened Species
+is the world’s most
+comprehensive information
+source on the global
+conservation status of
+animal, fungi and plant
+species and their links
+to human livelihoods.
+It is a powerful tool to inform and catalyse
+action for biodiversity conservation through
+policy change and action on the ground. The
+IUCN Red List evaluates the extinction risk of
+thousands of species, using nine categories;
+Critically Endangered (CR), Endangered (EN)
+and Vulnerable (VU) species are considered
+to be threatened with extinction.
+Data from the IUCN Red List is of international
+importance and is used to track progress
+towards UN Sustainable Development
+Goal 15 – Life on Land. It is anticipated
+that the implementation of a new post2020 international framework for saving
+nature will hinge on the availability and
+performance of the IUCN Red List.
+
+Resources generated by IBAT are provided
+to the IUCN Red List Partnership
+(iucnredlist.org/about/partners) to
+support three key priority areas:
+1. The expansion of the IUCN Red List to
+make it more representative of life on earth.
+2. Regular reviews of species already on the
+IUCN Red List so that changes in the status
+and taxonomy of species are incorporated.
+3. Ensure the IUCN Red List website and
+database are underpinned by appropriate
+technologies.
+In 2021 we added 13,762 new entries to
+the IUCN Red List. These included 8,037
+plants because of the focus on completing
+the global tree assessment. We also
+conducted re-assessments of 3,083 species
+– bringing the total number of global species
+assessments processed in 2021 to 16,845.
+Funds raised by IBAT in 2021 are being used to
+support the expansion and update of freshwater
+species, invertebrates, reptiles, birds, mammals,
+amphibians and plants. Funds also helped
+support improvements in internal processes
+for handling spatial data, for generating new
+species richness maps for amphibians, birds
+and mammals, and improvements to the IUCN
+Red List website, including changes to make
+assessments more visible to search engines
+like Google Scholar and the incorporation of
+the first 26 Green Status species assessments
+assessing the potential of species to recover.
+
+2021 financial report
+
+IBAT subscriptions directly
+support the update and
+maintenance of three of the
+world’s most authoritative
+global datasets: the World
+Database on Protected
+Areas, the World Database
+of Key Biodiversity Areas,
+and the IUCN Red List of
+Threatened Species.
+
+2021 EXPENDITURE
+
+2021 subscription income
+
+The annual cost of updating
+and maintaining these
+datasets is estimated at
+US$6.5 million. An additional
+US$114 million will be
+needed to reach baselines
+of data coverage for global
+biodiversity and conservation
+knowledge products.
+
+TOTAL (includes PAYG @ USD 149,654)
+
+36.0% Support to data sets
+
+29.4% Web presence
+
+1.1% Miscellaneous
+
+13.2% Communications and
+audience engagement
+
+20.3% Governance, management
+& coordination
+
+
+2021 expenses
+1,787,005 USD
+
+Support to management, maintenance and interpretation of core IBAT data sets 411,459
+
+Web presence 336,587
+
+Governance, management and coordination (IBAT staff, support to IBAT from Alliance) 232,476
+
+Communications and audience engagement 151,795
+
+Miscellaneous (office equipment, legal, other) 12,388
+
+TOTAL USD 1,144,705
+
+What next?
+
+There is exciting momentum
+leading into 2022. The
+long‑awaited UN Biodiversity
+Conference, COP15, will
+bring together governments
+from around the world to
+agree to a new set of goals
+for nature over the next
+decade through the post2020 Global Biodiversity
+Framework. There are calls
+from across the business
+community for governments
+to adopt ambitious nature
+policies to reverse nature
+loss this decade.
+
+IBAT will be matching this ambition, with the
+adoption of a new strategy to guide IBAT through
+these crucial next 5 years for nature. With a
+focus on innovation and impact, IBAT will look to
+provide actionable and operational biodiversity
+insights to help organisations achieve nature
+positive outcomes. Through collaborations with
+organisations across the public and private
+sector, we will seek to expand both the reach
+and influence of authoritative biodiversity data.
+Nature continues to be lost at an alarming rate,
+and the decisions made over the coming years will
+be crucial in halting and reversing biodiversity loss.
+Globally authoritative datasets have an important
+role to play, both in guiding decisions and tracking
+our collective progress. The funding generated
+through IBAT is crucial in helping to update and
+maintain the World Database on Protected Areas,
+the World Database of Key Biodiversity Areas,
+and the IUCN Red List of Threatened Species.
+We would like to thank all our subscribers for
+their support, which is greatly appreciated.
+
