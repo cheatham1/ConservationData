@@ -1,36 +1,22 @@
-Annual Report 2021
- Introduction 2021 saw increasing recognition that the biodiversity and climate challenges are two sides of the same coin – we cannot address the climate crisis without also halting and reversing the loss of biodiversity. The eyes of the world were on Glasgow for the COP26 climate summit, where nature was part of the climate discussions more than ever before. Leading organisations around the world are recognising the importance of managing nature-related risks and opportunities alongside climate risk.
-
+Annual Report 2021 Introduction 2021 saw increasing recognition that the biodiversity and climate challenges are two sides of the same coin – we cannot address the climate crisis without also halting and reversing the loss of biodiversity. The eyes of the world were on Glasgow for the COP26 climate summit, where nature was part of the climate discussions more than ever before. Leading organisations around the world are recognising the importance of managing nature-related risks and opportunities alongside climate risk.
 You can’t manage what you can’t measure, and for over a decade IBAT has provided access to biodiversity data in an integrated and intuitive fashion, helping users to assess biodiversity related risk. The World Database on Protected Areas, the World Database of Key Biodiversity Areas, and the IUCN Red List of Threatened Species are three of the most globally authoritative biodiversity datasets, and play a crucial role in informing conservation and private sector decision-making.
-
 In recognition of the crucial role that businesses can play in reducing biodiversity loss, many are increasingly moving beyond just assessing biodiversity related risk and seeking to identify opportunities to become more nature positive.
 It is into this evolving landscape that IBAT launched STAR – the Species Threat Abatement and Restoration metric. Released at the IUCN World Conservation Congress in Marseille, STAR allows businesses to quantify their contribution to reducing global species extinction risk.
-
 As organisations seek to align with global biodiversity goals and set science-based targets for nature, STAR is a powerful new tool to help guide nature positive action. – Edward Ellis, IBAT Manager
-
-Background
-IBAT is a web-based map and reporting tool that provides fast, easy and integrated access to three of the world’s most authoritative global biodiversity datasets:
-
+Background IBAT is a web-based map and reporting tool that provides fast, easy and integrated access to three of the world’s most authoritative global biodiversity datasets:
 IBAT is developed and maintained by the IBAT Alliance (BirdLife International, Conservation International, UN Environment Programme World Conservation Monitoring Centre (UNEP‑WCMC), and IUCN) with the aim to enable users to make informed decisions in policy and practice.
-
 The IBAT team are based at the David Attenborough Building, a vibrant hub for leading conservation organisations.
-
 “Our common vision is that decisions affecting critical biodiversity should be informed by the best and most up to date scientific information and the decision‑makers who use that information should help support its
 generation and maintenance” – IBAT Alliance Partners
-
 STAR 10,000 Users
-
 The most significant and exciting development to IBAT during 2021 was the launch of the Species Threat Abatement and Restoration Metric (STAR) at the IUCN World Conservation Congress in September. Following the publication of the STAR methodology in Nature, the IBAT team worked hard to deliver the STAR Metric in a user-friendly and accessible way, in line with business needs. This development work resulted in the release of three STAR-related functionalities in IBAT:
-
 During 2021, IBAT’s user base reached 10,000 users – and growing! This explosive growth in users has tracked the increase in awareness about the biodiversity crisis by businesses and the recognition of the need to act. This increased growth can also be attributed to new initiatives like the launch of the Taskforce on Nature‑related Financial Disclosures (TNFD) beta framework, and implementation of the Sustainable Finance Disclosure Regulation (SFDR) ESG disclosure requirements, as well as the increasing need for transparency in corporate sustainability reporting.
-
 1. STAR Data Map. IBAT’s data map is a popular tool for high-level visual screening and context. The global STAR layer was added to the map and is visible at a granularity of 5km2 for subscribers, while the global layer is downloadable for use in GIS analysis.
 2. STAR Report. A brand-new report was developed, emulating IBAT’s traditional project-level screening options and delivering comprehensive information on the opportunities to reduce species extinction risk and which threats to mitigate to deliver maximum impact.
 3. STAR Multi-site assessment. Companies are increasingly conducting corporate biodiversity assessments at scale, and it was important that organisations could access insights on STAR across global assets. The integration of STAR with our Multi-site Report has allowed IBAT users to identify opportunities for positive biodiversity action by quickly ranking their sites based on total and mean STAR scores.
 The STAR Metric was developed at a crucial point in time as businesses are increasingly required to demonstrate positive biodiversity actions, as well as set science-based targets. STAR now enables businesses to avoid the addition of cumulative impacts to species and to quantify what contributions they can make to reducing threats to species.
 STAR was first launched in beta to enable businesses to provide feedback and shape the future development of the metric. We
 saw rapid uptake and interest in STAR, with valuable feedback from a number of IBAT subscribers, as well as first‑time users of the tool. The STAR beta will continue into 2022.
-
 New Staff
 In 2021, the IBAT Secretariat grew from strength-to-strength.
 We welcomed three new staff to support the growth and
