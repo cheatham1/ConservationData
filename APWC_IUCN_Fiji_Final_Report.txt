@@ -1,0 +1,606 @@
+Executive Summary
+Asia Pacific Waste Consultants (APWC) was engaged by IUCN in 2020 to undertake a National Level Quantification of Plastic Waste and Sectorial Material Flow Analysis in three key sectors – household and commercial, tourism and fisheries – as stage one of the Plastic Waste Free Islands Project. Island-wide plastic influx and outflux mapping (including imports and exports at a national level) tracked seven plastic polymer materials to identify sources, quantities and pathways of plastic waste generated and leaked per sector in Fiji. Data collected provides an overall picture of the waste management landscape for Fiji and identifies the leakage of plastic material to provide a robust and comprehensive overview of the plastic flows. 
+
+Waste management situational analysis and findings
+Infrastructure
+There are eight disposal sites in Fiji, which should provide sufficient capacity for the disposal of generated waste. Remote and rural areas, however, are still frequently without a waste collection service. Of the eight disposal sites, three are in environmentally acceptable conditions, whereas the remaining sites require upgrading to a minimum of a semi-aerobic landfill; 
+Naboro Sanitary Landfill is the only disposal site that entirely satisfies current environmental standards. 
+There are three large-scale composting facilities in Fiji. 
+Recycling infrastructure is limited and is not used at its full capacity.
+The potential for plastics recycling in Fiji is substantial and requires further investment. 
+
+Legislation 
+In the past several years, Fiji has developed and is currently working on the implementation of a number of bans for single-use plastics, including thin plastic bags (< 50 microns), Styrofoam, single-use plastic containers, straws, cups and utensils. The recent Climate Change Bill 2019 has comprehensively addressed most of the disposable plastic items of environmental concern. 
+Waste management budget and levies
+The national waste management budget is allocated by the Department of Environment, Ministry of Local Government and the Ministry of Health. These governmental entities have responsibility for solid waste management (SWM) in Fiji. The SWM budget in Fiji derives from several revenue streams, which include tipping fees (at three disposal sites), ECAL (plastic bag levy, taxes on luxury importation, certain services, income, etc.), licences (recycling, waste picking), littering fines and notices, and sales of compost and recyclables. The overall SWM expenditure includes staff salaries, equipment purchases and maintenance, landfill cost (operation and management), awareness programmes and clean-up campaigns.
+
+Audit findings
+Overall, 15,000 tonnes of plastics are disoposed of annually. The tourism sector, particularly sea-based tourism (cruise and yacht activities), is a significant contributor to plastic waste (Figure 1). On daily basis, tourism land activities (hospitality) contribute 199 grams of plastic waste per tourist per day, which can be translated to six 1.5-litre plastic bottles per tourist per day.  
+
+Households dispose of 5,876 tonnes of  plastics annually.
+Commercial businesses dispose of 6,881 tonnes of plastics.
+
+Tourism 
+In 2019, Fiji was visited by 968,926 tourists.
+Overall, tourists generate 7 times more plastic waste per person per day than a Fijian resident does. 
+Land-based accommodation accounts for 94% of plastic waste disposal by the tourism sector.
+Polystyrene was 6% of all tourism waste.
+
+Fisheries 
+The Fiji fishing fleet comprises approximately 93 international vessels. 
+The fleet also includes 1,276 domestic/artisanal vessels. 
+Fisheries-based consumable waste includes 5.4 tonnes of PET, 2 tonnes of PP and 0.8 tonnes of ‘other’ plastics.
+In addition, Fiji’s fishing fleet leaks 88 nets, 116 traps and 2,454 lines in the form of abandoned, lost, discarded fishing gear.
+
+Plastics disposal contribution per sector
+During 2019, 14,875 tonnes of plastic was disposed of in Fiji. Disposal rates and composition of the waste by polymer types are demonstrated in the graphs below (Figure 2). 
+
+Plastic leakage 
+Overall, 24.7% (95% credible interval: 8.5%–40%) of imported plastic was leaked or held in long-term reservoirs away from landfill in Fiji, equating to 4,877 tonnes (Table 1). 
+
+Plastic leakage per sector 
+We assumed most plastic waste leaked from the commercial sector – almost 2,205 tonnes annually – followed by the household sector with 1,939 tonnes annually (Table 2). 
+
+APWC top recommendations 
+All Sectors
+More financial support and incentives for waste pickers and private recyclers is necessary for recycling rates to increase.
+Improved source separation is needed for more efficient material recovery. Infrastructure investment into waste transfer stations and material recovery facilities, for example, will help support the recycling sector.
+It is essential to implement the overdue Environment Management (Container Deposit) Regulations 2011, which addresses deposit and refund schemes and product stewardship.
+Promote innovation and production of alternatives to single-use plastics and plastic packaging. Promote reusables and zero-waste consumption. 
+Tourism Sector
+Make waste management a condition for a permit or licence to operate a hotel and resort, strengthening the implementation of legal provisions under the National Waste Management Act 2010.
+Plastic PET bottles containing water of 250 ml and 300 ml or less should be financially dis-incentivised through levies or taxes on plastic bottles or preform imports in order to encourage refillable water for local use.
+Fisheries Sector
+Port infrastructure should provide facilities for fisher folk to repair and store nets.
+Promote the reporting of abandoned fishing gear to fulfil the IMO’s mandatory reporting requirements under MARPOL Annex V, including discharge or accidental loss of fishing gear.
+
+
+Marine plastic litter 
+Plastics leak into the ocean through a number of channels, including direct dumping of mismanaged or uncollected waste or land dumping that eventually makes its way to the marine environment (61% of total microplastic leakage). Waste collected formally and disposed of at landfills is also mismanaged, entering the marine environment via land, air or dumped illegally into waterways (39% of total microplastic leakage) (Pew Charitable Trust, 2020). Few studies have been conducted in Fiji to assess plastic pollution levels in the marine or land environment. In the most recent one available, Ferreira et al. (2020) found on average one plastic fragment in 4,000 litres of surface waters in Vanua Navakavu in the Suva area and 34 fragments per one kilogram of wet sediment in Laucala Bay. Of 120 fish examined, 67.5% contained microplastics, with some individuals having ingested more than 10 particles. 
+
+In relation to ocean-based sources of plastic pollution, a global meta-analysis study investigated fishing gear losses for different major gear types, estimating that 5.7% of all fishing nets, 8.6% of all traps and 29% of all lines are lost around the world each year (Richardson, Hardesty and Wilcox, 2019). A 2016 report predicted that by 2025 for every three tonnes of fish there will be one tonne of plastic waste in the ocean, so that by 2050 there will be more plastic than fish in the ocean (World Economic Forum et al., 2016).
+
+Country overview
+Fiji is an archipelago in the southwest Pacific Ocean, consisting of 322 islands, one-third of which are permanently inhabited (Figure 4). Fiji is one of the most developed Pacific island economies. Its natural resources include timber, minerals and fish resources. The largest foreign exchange earners for Fiji are tourism and remittances from Fijians working overseas (CIA, 2021).
+
+Approximately 50% of Fiji’s population lives in urban areas. Fiji’s capital, Suva, is one of only two cities in the Pacific with more than 100,000 inhabitants. Classified as an upper-middle income economy in the Pacific, Fiji citizens have more education (in terms of school years) than other Pacific countries and a better health system. However, Fiji is projected to suffer the highest cardiovascular burden, at roughly 60% in 2040 (World Bank, 2017). 
+
+Fiji is susceptible to extreme weather events. Tropical Cyclone Winston, an extremely destructive Category 5 cyclone, struck Fiji in February 2016, resulting in the death of at least 42 people. Fiji also experiences devastating floods, particularly in 2004, 2009, 2012 (twice) and 2014. The 2009 event caused USD 135 million in damages and losses (SOPAC, 2009). The lack of coordinated collection and disposal associated with disaster waste has overwhelmed local waste disposal facilities and exacerbated the impacts of inadequate disposal practices (UNOCHA, 2011). 
+
+Government structure 
+Fiji’s government is a democratic parliamentary republic and has a legal system based on the English common law model (PRIF, 2018). 
+
+International relations 
+Fiji is a member of the United Nations (UN), Secretariat of the Pacific Community (SPC), Pacific Islands Forum Secretariat (PIFS), International Civil Aviation Organization (ICAO), Commonwealth (re-joined in 1997 after 10-year lapse), International Maritime Organization (IMO) and Pacific Regional Infrastructure Facility (PRIF). 
+
+Solid waste management in Fiji
+Institutional framework
+Fiji has adopted and developed a number of international, regional and national legislative documents pertaining to waste management, pollution control and environmental protection. 
+
+International and regional legislation
+International agreements arise from the need to control pollution and its movement across national boundaries and to reduce the risk of harm to the environment and human health. A number of multilateral environmental agreements (MEAs) relevant to waste management and pollution control have been ratified by Fiji (see Appendix J: Multilateral agreements). In 2004, Fiji ratified the Stockholm Convention; however, unlike Vanuatu and Samoa, Fiji has not ratified the Basel, Rotterdam and Minamata Conventions. Of particular importance is the SIDS Accelerated Modalities for Action (SAMOA) Pathway (2014), which addresses waste, chemicals and pollution issues in SIDS. On a regional level, Fiji is a party to the Apia Convention (1976), Noumea Convention (1986) and Noumea conventions Dumping Protocol (1990), and Waigani Convention (1996) (Figure 5). Plastic waste was included as hazardous waste in the Basel Convention in March 2019, and the Waigani Convention could potentially accept this decision as well. 
+
+Governing national legislation
+The sources of Fiji law are its constitution (as the supreme law), common law made by the courts and written law (SPREP, 2020). The Constitution of Fiji, which is the central legal foundation, acknowledges the human right to a healthy environment in the preamble ‘Environmental Rights’. Legislative documents addressing Fiji waste management and pollution are the Environment Management Act 2005, Litter Act 2008, Environment and Climate Adaptation Levy Act 2015 and Climate Change Bill 2019 (Table 3). The Environment Management Act 2005 is fundamental for the development of environmental law and policy in Fiji, providing a new framework for national coordination and planning of environmental issues, and enabling government agencies to control environmentally harmful activities (DoE, 2021). 
+
+In 2019, the Department of Environment produced the new waste management policy document – the National Waste Management and Pollution Control Strategy and Action Plan 2019–2029 (NWMPCS), which is currently still in its draft form (DoE, 2019) (Table 3). Its aim is to provide a 10-year strategic framework related to waste, chemicals and pollution issues. There are 14 guiding principles of the strategy: 6R (Rethink, Refuse, Reduce, Reuse, Return, Recycle); product stewardship; polluter-pays principle; proximity principle; transparency; public consultation and participation; multi-sectoral approach; regionalism; sound decision making; precautionary approach; adherence to regional and international conventions; public-private partnership; selection of appropriate and affordable technology; and gender equity and equality.
+
+Policy measures
+According to the NWMPCS, there is inconsistency in existing laws across various agencies, leading to inefficient standards and services. Furthermore, the lack of clear delineation between service delivery and environmental enforcement creates self-regulation and potentially undermines public confidence in the regulatory and environmental protection framework.
+
+Plastic bans
+In the last several years, Fiji has developed and amended a number of Acts addressing the top-priority plastic products associated with environmental degradation, such as plastic bags, polystyrene containers and other widely used disposable plastic products. In 2007, the Environment Management (Waste Disposal and Recycling) Regulations 2007 (Table 4), which describe various types of permits related to waste management and pollution, included a regulation on a plastic bottle permit (Reg. 30) for facilities that import or manufacture plastic bottles. This amendment was followed by the introduction of the container deposit regulation in 2011 (of the same Act), which also defines requirements for a product stewardship plan (PSP), deposit scheme and refund scheme. To date, deposit and refund schemes and product stewardship have yet to be implemented. 
+
+In 2015, another important environmental legislative document was developed (Environment and Climate Adaptation Levy) with its 2017 Regulations introducing a plastic bag levy. However, none of these regulations specifically banned plastic products until the Environment Management (Budget Amendment) Act 2019, which bans plastic bags, stating that it is an offence to manufacture, sell, supply or distribute plastic bags. This piece of legislation was further supported by the Climate Change Bill 2019, which bans single-use plastic bags, polystyrene and single-use containers, straws, cups and utensils. Clause 92 reads as follows:
+
+Reducing plastic pollution:
+1 – Any business within the meaning of the Business Licensing Act 1976 that provides, sells or otherwise makes available single-use plastic bags after 1 January 2020 commits an offence and is liable upon conviction to a fine not exceeding FJD 750,000. 
+2 – Any business within the meaning of the Business Licensing Act 1976 that uses, provides, sells or otherwise makes available Styrofoam [polystyrene] after 1 January 2021 commits an offence and is liable upon conviction to a fine not exceeding FJD 750,000. 
+3 – Any business within the meaning of the Business Licensing Act 1976 that uses, provides, sells or otherwise makes available single-use plastic containers, straws, cups and utensils after 1 January 2021 commits an offence and is liable upon conviction to a fine not exceeding FJD 750,000.
+
+Finally, in 2020, polystyrene products were also banned through the Environment Management (Amendment) Act 2020. Additionally, the Ministry of Waterways and Environment provides a plastics permit since all importers of plastic are required to obtain the consent of the Department for the release of any plastic consignment into Fiji under Customs (Prohibited Imports and Exports) Regulations 2019. The plastic bag levy refers to thick plastic bags (> 50 microns), while the thin bags (< 50 microns) with handles are banned. The bag ban excludes thin plastic bags without handles, for fruit and vegetables, for example. The bag levy increased from the original 10 cents to 50 cents. 
+
+Roles and responsibilities
+The primary government body responsible for the implementation, monitoring and enforcement of policies and legislation for national solid, liquid and hazardous waste management as well as air and water pollution control is the Department of Environment (DoE) under the Ministry of Waterways and Environment (Table 5). The Department is also responsible for the operational management of Fiji’s main landfill – Naboro Sanitary Landfill – in Suva (Central Division), through private contractual arrangements. In other urban areas of Fiji, solid and hazardous waste management is the responsibility of the 13 town and city councils. Until 2018, local authorities ran waste management activities within rural areas. Waste collection services are now the responsibility of the town and city councils in rural and peri-urban populated areas. 
+
+Waste budget 
+The Department of Environment (DoE) has an annual solid waste management (SWM) budget that includes solid waste, e-waste and hazardous waste of USD 230,000 (PRIF, 2018). The Ministry of Health also has an annual USD 50,000 waste and pollution management budget. DoE allocated USD 1.2 million for managing the Naboro Landfill, largely from external aid funding. Aside from external and international funding, the SWM budget in Fiji derives from several revenue streams, including tipping fees (at one disposal site), garbage fees, town rates, licences (recycling, waste picking), littering fines and notices, and sales of compost and recyclables. The overall SWM expenditure includes staff salaries, equipment purchases and maintenance, landfill cost (operation and management), awareness programmes and clean-up campaigns. 
+
+Landfill disposal charges (based on weight) are levied to all users (i.e. commercial and industrial) at approximately USD 14 per tonne for general and green wastes and USD 25 per tonne for special (regulated) waste (PRIF, 2018). 
+
+The Fiji Government provides annual subsidies of approximately USD 650,000, as tipping fees and household rates do not fully cover operating costs (PRIF, 2018). City and town councils charge waste collection and disposal fees at approximately FJD 1.7 per household per week, but often these fees are not paid. Under the Garbage Disposal By-Law (2009), the Suva City Council levies households with an annual fee of approximately USD 15 per bin to cover collection and disposal costs. Until August 2018, Rural Local Authorities had responsibility for SWM in rural areas. Councils now have responsibility to collect waste from rural and peri-urban populated areas, but the cost is subsidised by the government through the Ministry of Local Government. All government ministries make submissions on an annual basis to the Ministry of Economy for final approval and allocation of budget, which is finally endorsed after cabinet debate. For example, the Ministry of Economy considered a submission from DoE for a budget to improve and extend the new cell for Naboro Landfill, the plastic levy and ECAL. Lautoka City Council (LCC) has put a monitoring system in place to perform a cost-benefit analysis to justify more investment for SWM, for allocation of resources and to estimate the portions of the budget used for SWM activities (e.g. 20% in LCC).Plastics import, manufacturing and recycling in Fiji
+In 2018, Fiji imported plastic and rubber goods worth more than USD 145 million, predominantly from China and other Asian countries, Australia, New Zealand and Thailand (World Bank, 2021). Fiji exported almost USD 7 million of plastics and rubber mainly to Samoa, Kiribati, Solomon Islands, New Zealand and Vanuatu (World Bank, 2021). According to our estimates, the overall quantity of imported plastics in 2018 was 18,791 tonnes. The imports of plastic bags increased considerably from 2009 to 2012 but since this time the trend has been decreasing (PRIF, 2018), particularly in more recent years (Figure 6). The decrease in plastic bag imports is most likely the result of the recent plastics legislation, which has put further restrictions on the availability of plastic bags in the market. 
+
+Import of raw polystyrene – Fiji customs data indicated import of an average of 16,000 tonnes of material ‘polymers of styrene – other’ (HS code 390390) in the past three years. This is around 10 times the per-capita rate of import of polymers of styrene in other countries surveyed as part of this project. We theorise that these imports may be associated with Manubhai Industries (http://www.manubhaiindustries.com.fj/about-us), which manufactures polystyrene products such as polystyrene construction material (sheets, flotation platforms), polystyrene boxes (ML1, ML100, liners, beverage holders), moulding and other products. 
+
+Plastic producers
+There are several producers and suppliers in Fiji producing either plastic items and materials or goods packaged in plastics (see Appendix C: Project Methodology – Producers). The most common products are related to consumption, packaging or construction and engineering. 
+
+Plastic and waste initiatives and projects in Fiji
+Generally, there have been few waste and plastics projects on an international and regional level in Fiji. However, several national initiatives were carried out to raise awareness on plastic pollution, some of which took place before the development of plastic waste legislation. For example, the Suva City Council started an awareness campaign where Eco Bags were used to promote alternatives to plastic (SPREP, 2020). Similar projects took place in Nadi Council in 2010 and in Lautoka in 2011. The fast-tracking of Fiji’s plastics legislation and its leadership in COP 23 – the 23rd session of the Conference of the Parties of the United Nations Climate Change Conference held in Germany in 2017 and presided over by the government of Fiji – pays tribute to Fiji’s commitment to action on the dire global threat posed by plastic waste on marine and land environments. APWC recommends that any projects designed to improve future outcomes of these regulations should work closely with plastics projects (Table 6). 
+
+Recycling
+The new Fiji waste strategy clearly promotes waste prevention and minimisation through reduction, reuse and recycling (3Rs), and the activities to implement these measures show positive effects (DoE, 2019). Over the past years, waste recycling rates doubled in Lautoka (from 5.9% to 12.8%) and increased eight-fold in Nadi (from 2.8% to 22.3%) through the 3R Promotion Project. According to SPREP (2020), establishing Fiji as a recycling hub in the Pacific, with the support of the Moana Taka Partnership (signed in 2018), could bring multiple benefits for material recovery in the region. The Moana Taka Partnership facilitates shipping and provides potential adjustment of freight cost, which in the past has been a barrier to recycling initiatives in the Pacific. Another recent initiative, the establishment of the Waste Management Resource Recycling Association (WMRRA) demonstrates increased efforts towards a sustainable recycling industry in Fiji. The association has still not been formalised and is currently awaiting approval from the Department of Environment.  
+
+The recycling market in Fiji consists of six active private companies (Table 7), of which Waste Recyclers Fiji Pte Ltd (WRFL) has been the most reliable in offering recycling services across a broad range of products. The businesses are involved in the collection and export of waste materials but are often limited to a single line of materials. WRFL has been collecting and shipping out recyclables for more than 20 years, and larger hotels have contracts with WRFL to collect their recyclables (PET bottles, cartons, aluminium cans). Two important recycling businesses seem to be out of operation since 2020, most likely due to the COVID-19 pandemic (not included in Table 7). GreenWaste Recyclers Pte Ltd is currently dormant (out of operation), with a variety of materials stockpiled without immediate plans for export. The Mission Pacific Programme (operated by Coca-Cola Amatil as a corporate social responsibility public relations exercise, not a standalone/profitable recycling enterprise) has claimed to be in continuous operation for decades, but its website is currently offline, and the state of its operations is unclear. It seems that the pandemic measures have had an impact on export of recyclables, while on the contrary, the generation of plastic waste has increased considerably. 
+ 
+Separation of waste at the source is still not a fully accepted practice in Fiji. Waste separation and collection of recyclables in Fiji commenced under the 3R project in 2008, funded by JICA (Table 6). In Lautoka City Council (LCC) and Nadi Town Council (NTC), collection of recyclables started in 2019. NTC is continuing the service, but on a reduced participation rate. LCC has stopped the service of fortnightly roadside collection of recyclables and has constructed a recyclable drop-off centre instead (Figure 7), as residents expressed that they would appreciate an incentive for separating their waste. 
+
+Currently, source separation of waste has been fully successful for paper and cardboard in the Suva area. The separation of paper is also practised in business offices in Lautoka. The paper is then recycled into toilet paper by South Pacific Waste Recyclers Ltd. Carton is also successfully separated and recycled by Punjas Carton Factory. Waste Recyclers Fiji Ltd has also been successful in source separation at hotels using a user-pays concept. 
+
+There are also plans to introduce a nationwide container deposit scheme for plastics to boost recycling in Fiji. At this stage, only Coca-Cola and Fiji Water (Mission Pacific) offer a return fee for PET bottles, exclusive to their own products. Other plastic bottles are also collected but no reimbursement is given. The collected bottles are then exported. 
+
+Waste picking is present in some disposal sites in Fiji, such as Lautoka and Labasa, as a means of collecting recyclables. There are currently 25 waste pickers in Lautoka, with permits issued by LCC (personal communication from Shalend Singh) to engage in the recovery of reusable and recyclable items. Out of an average 100 tonnes of waste received at the Vunato Landfill from Lautoka and Nadi areas each month, around 30 tonnes of recyclables are recovered in this manner. Most of it is sold to Coca Cola and some to waste recyclers, while other recovered waste is reused.  Waste picking is not available at the Naboro Landfill (Suva). 
+
+Composting of organic waste is becoming more efficient in Suva, Lautoka, Nadi, Sigatoka, Ba and Labasa. On a household level, small composting units (bins) for home composting can be purchased at a subsidised price of FJD 30 (ADB, 2014) (bins cost FJD 115; government subsidises FJD 85) (Figure 8). Despite the low price of the bin and an intensive educational campaign, only about 470 bins have been sold in the last 10 years in Lautoka (pers. comm. Shalend Singh). The reasons for the low response are not clear. 
+
+The majority of commercial composting occurs in Suva (two composting facilities: City Council Compost Processing Centre and Flower Power Garden Centre) and Lautoka (Market Waste Composting Facility at the Vunato Landfill site) (Figure 8). The Compost Processing Centre in Suva owns one shredder and one wood chipper. There are three permanent staff, three contractors and three waste pickers picking food for animals. The leachates are collected in a leachate channel and hosed with water into a natural waterway. Organic waste processed in these facilities includes green market waste mixed with grass clippings, dried wood chips, discarded fruit/vegetable waste from two local suppliers, and by-product of noni juice. At the Market Waste Composting Facility in Lautoka, an average of 1.2 tonnes of market organics is separated and composted. The compost is sold at FJD 3 per 10 kilograms, and in the last 10 years (mainly in the past three years), the Council sold 110 tonnes of compost and earned FJD 33,000.
+ 
+Potential material and resource recovery
+A considerable amount of waste materials could be recovered from the waste stream and turned into resources, particularly in areas provided with collection services, as shown in Figure 9. In the graph, the potential for recovery of waste streams is presented based on the current material collected. Fiji does not have 100% collection coverage. Extension of the collection services to additional rural areas and islands would lead to greater quantities of recyclable materials captured. 
+
+Waste management infrastructure
+Landfills and dumpsites
+The predominant method of waste disposal in Fiji involves the delivery of municipal solid waste to sanitary landfills, controlled dumps and open dumps, primarily in the municipal council areas (urban areas). There are nine disposal sites of this type (Table 8). The only sanitary landfill in Fiji is the Naboro Sanitary Landfill. 
+
+Waste disposal in rural areas is less organised and most often without collection services and formal disposal sites. In rural settlements, backyard burial and open burning are still common practices, particularly when the residents are unable or unwilling to transport their waste to the nearest council waste disposal site (DoE, 2019). 
+
+Central Division
+Naboro Sanitary Landfill
+Opened in October 2005, the only sanitary landfill in Fiji is Naboro (Figure 10), located in the Rewa Province (Zariff, 2006). It serves 26 areas, including Suva, Lami, Nausori, Nasinu and Korovou. The landfill is the responsibility of the Department of Environment, which aspires to maintain high standards. It is operated by the New Zealand Company, HG Leach. The landfill manages residential and commercial waste, as well as quarantine and disaster waste. There is an office at the site and 22 permanent staff. The landfill is fenced and has a tipping fee. Plant and equipment include a weighbridge, three 20-tonne excavators, one 26-tonne compactor, two bulldozers (D6 and D7), one compaction roller and one dump truck. Leachate control at the site includes specialised liners to prevent leachates from entering the surrounding environment, as well as four leachate ponds to treat leachate through aerobic digestion prior to release (MOWE, 2021).  
+
+Lami Disposal Site
+Lami is no longer in use and was closed prior to the opening of Naboro Landfill. It has since been rehabilitated (DoE, 2019).
+ 
+Western Division
+Vunato Disposal Site
+This site is the main disposal site in the Western division. It is situated in Lovu, close to Lautoka City (Ba Province), on approximately 20 hectares (50 acres) of flat, reclaimed land near mangroves. Vunato services the Lautoka district (urban/rural), Nadi district and Denarau Island, including hotels and resorts on the islands off the west coast. It provides disposal services for domestic, commercial and industrial wastes, as well as waste delivered by the general public. There are 18 permanent staff employed at the site. Landfill operation, management and waste collection are currently provided by LCC. NTC also collects waste for disposal at the site. Vunato Disposal Site has recently tendered for outsourcing (contractors) waste collection in residential areas. Waste collection in rural areas in both LCC and NTC is outsourced to contractors. There is a tipping fee for commercial and self-haul waste disposal at the landfill. On-site equipment includes a bulldozer, an excavator, computerised weighbridge system (Figure 11) and a wood chipper. Leachates are treated through an open aerobic evaporation method (without leachate containment) and soil cover has been introduced. Twenty-five waste pickers have council permits to recover materials for recycling and reuse.
+
+Sigatoka Town Council Dumpsite 
+This dumpsite is located near Sigatoka and the sand dunes in the Nadroga-Navosa Province. There is one permanent staff member, one contractor and two waste pickers on site. The site is prone to windy conditions, which presents potential plastic leakage concerns into the surrounding environment. 
+
+Northern Division
+Namara Dumpsite 
+Located in Labasa (Macuata Province) on Fiji’s second largest island, Vanua Levu, this dumpsite was upgraded from an open dump into a more controlled landfill in 2014 as part of a DFAT-funded project through SPREP, with technical support provided by JICA (J-PRISM I). The upgrade included improved site access on rainy days, application of clay soil as a lining material at the base of the site to control leachate seepage, installation of leachate and gas control facilities, construction of an onsite composting facility, a disaster waste disposal cell and the implementation of a proper administration system. Enclosing embankments (3 metres in height), constructed from a mixture of old waste and soil, serve as a natural fence, helping to isolate the site from the surrounding mangroves and protecting the vulnerable habitat. The site accepts residential and commercial waste, as well as disaster waste and e-waste.
+ 
+Composting and recycling activities also take place at the site (Figure 12). In January 2019, the government of Japan donated a 9-tonne compactor truck to Labasa Town Council. The site has a colourful garden at the front area, displaying reuse waste materials for educational purposes. The site is frequently visited by school groups, local government officials, officials from other Pacific islands and development partners.
+
+Savusavu Town Council Dumpsite 
+Savusavu dumpsite services the whole Savusavu area in the Cukaudrove Province in Vanua Levu. There are six permanent staff and six contractors. There are no licensed waste pickers but scavengers pick waste for their own use. Equipment on the site includes a backhoe, a compactor truck, a tip truck, a mist blower and a knapsack sprayer. 
+
+Eastern Division
+Levuka Dumpsite 
+This waste disposal site on Ovalau Island, east of Viti Levu, services Levuka Town in the Lomaiviti Province (Figure 13). There are no permanent staff. Instead, six contractors provide waste collection and disposal services. It is an open dumpsite, with no daily soil cover, leachate control or other management measures to control incoming waste. Fire is a frequent occurrence at the site, often resulting from the lack of daily soil application, especially during the long dry season – a problem common to open dumpsites in other PICs. 
+
+Incineration
+For biosecurity reasons, several waste types are incinerated in Fiji, primarily quarantine waste from international flights, cruise ships and yachts (in the Suva Port, see Figure 14) and medical (hospital) waste, both of which are considered contaminated biohazardous waste. Waste incineration is also used as an energy source for cooking in small, remote communities in ‘rocket stoves’ or pyrolysis ovens. Incineration of waste for waste-to-energy (WtE) purposes has been trialled in Fiji on a number of occasions but is yet to be implemented. 
+
+In 2014, a WtE project was carried out by the Department of Energy, Ministry of Infrastructure and Transport, GEF and UNDP to assess the feasibility of resources and sites for WtE power generation in Fiji (Fiji Renewable Energy Power Project – FREPP) (Government of Fiji, 2014). Incineration would include combustible waste, such as municipal solid waste (MSW), market waste, sewerage sludge, livestock waste, biomass waste, logging and forest-industry waste, non-hazardous industrial wastewater and agricultural crop residues. The project outcome demonstrated: "… [that] based on the assessment, in terms of theoretical potential for electricity generation, it appears that the biomass waste stream (bagasse and logging and forestry industry residues) has the highest potential, followed by MSW and livestock waste” (Government of Fiji, 2017). 
+
+Although Fiji’s energy generation relies heavily on imported fossil fuels (16% of Fiji’s total national import) (Energypedia, 2021), and WtE could potentially reduce fuel imports, most of the imported fuel is used in transportation and not for generating electricity. Energy generation (electricity) for residential, commercial and industrial properties mainly comes from hydropower and biomass. Given the complexities, such as the absence of infrastructure, technical expertise and the high operational costs, Fiji may encounter many hurdles with WtE developments. In addition, the absence of national emission standards and regulations specifically for WtE developments raises concerns for the environment and public health, as it has in other Pacific island nations, including American Samoa, Cook Islands and Republic of Marshall Islands, which had previously considered similar WtE ideas. 
+
+According to the Pacific Regional Waste and Pollution Management Strategy 2016–2025 (Cleaner Pacific 2025), the interest in WtE in the Pacific region has been driven primarily by international companies that promote proprietary waste-to-energy technology, with little regard for long-term affordability and sustainability (SPREP, 2016). The Strategy further highlights that: 
+
+Conventional wisdom suggests that the waste-to-energy approach is unsuitable for the majority of Pacific SIDS due to relatively small municipal waste volumes and the dense, wet quality of most waste streams. This is reinforced by the lack of successful case studies of municipal waste-to-energy implementation in other SIDS. Waste-to-energy technologies that combust MSW also transform a fairly innocuous waste stream (general waste) into bottom ash, as well as fly ash and flue gas, which may contain particulate matter, heavy metals, dioxins, furans and sulphur dioxide. Management of these hazardous waste streams requires careful handling, disposal and environmental monitoring, which are beyond the current capacity of Pacific Island countries and territories.
+ 
+Household and commercial sector – Plastic quantification results
+Waste service provision
+According to the 2017 census, there are 884,887 people living in 191,910 private households in Fiji, of which 494,252 (55.9%) live in urban areas and 390,635 (44.1%) live in rural and remote parts of Fiji (FBS, 2018). The most populous divisions are the Central and the Western divisions. The number of households in the urban areas of Fiji totals 108,729, with 12,448 businesses. Waste collection service varies across Fiji (Table 9). It was not possible to obtain an interview with Labasa Town Council and the waste collection details are therefore not included in Table 9, but the arrangement is similar to Lautoka City Council (pers. comm. Shalend Singh). 
+
+Note: The numbers of households and commercial premises refer to urban Fiji.
+
+In urban areas of Fiji, waste is collected either by the council or by private collection contractors, such as Waste Clear Fiji Pte Ltd and Waste Management Solutions-Fiji. Domestic waste collection is included in town rates or garbage fees, while commercial waste collection is charged based on type and quantity. Rubbish bins with a lid can be purchased at FJD 12. A tipping fee is typically charged for self-hauled waste. To discourage illegal disposal at Vunato Landfill, residents get a discount for self-hauled waste. Flatbed or compactor trucks collect both household and commercial waste from the kerbside. 
+
+Unlike waste collection in urban areas, which seems to be quite efficient, collection in rural and remote areas of Fiji is problematic. As almost half Fiji’s population resides in rural areas, this creates a considerable potential for plastic leakage from rural areas. For example, of all the Lomaiviti and Lau islands, which count 9,602 and 15,657 residents, respectively (FBS, 2018), only Levuka town on the island of Ovalau (Lomaiviti) has a waste collection service. Nevertheless, there are some rural communities, such as Rakiraki town (Zariff, 2006), without a designated disposal site, where the Rural Local Authorities have organised waste collection for residential and commercial properties. Collectors charge for these services, although on a no-profit basis. 
+
+Waste disposal practices
+The great majority of waste in urban Fiji is collected. As mentioned above, most remote and rural communities still do not have access to adequate waste services. However, waste disposal in densely populated rural areas of Viti Levu and Vanua Levu improved dramatically in 2018 when councils extended waste collection service outside of urban areas. Dumping of waste into creeks and rivers has decreased considerably. Lautoka City Council, for example, collects approximately 100 tonnes of waste per month generated by about 20,000 people from rural areas (equivalent to a disposal rate of 0.17 kg/person/day) (pers. comm. Shalend Singh). Since burning and backyard burial are still common practice, a proportion of plastic waste is still disposed of in this manner, by both households and commercial premises (Figure 15). 
+
+Piling or stacking of full garbage bags outside households or on the roadside is also potentially problematic, especially in rural areas. Scattering of garbage by dogs and other animals is still quite common in Fiji. Although garbage bins can be purchased for only FJD 12, they are often considered items of value and therefore attractive to thieves. For this reason, garbage bins are still not an entirely efficient receptacle in many parts of Fiji. 
+
+APWC 2020 audit – Household and commercial methodology
+Sampling methodology
+APWC implemented the Pacific Regional Infrastructure Facility (PRIF) Waste Audit Methodology: A Common Approach Audit (PRIF, 2019) to undertake the waste sample collection and waste sorting. A detailed explanation of the audit methodology approach for household and commercial sample collection, sorting and auditing can be located in Appendix C: Project methodology.
+
+Work health and safety
+During audits, the consulting team at APWC uses an integrated management system, which covers quality, health, safety and environment (QHSE). This system has been developed to be consistent with the requirements of the international standards ISO9001 (Quality), ISO14001 (Environment) and AS4801 (Occupational Health and Safety). 
+
+Training
+The field team conducted a number of training sessions via web meetings. Training included interviews, collection and sorting training, as per the APWC methodology. A list of individuals trained is provided in Appendix C: Project methodology – Staff training.
+
+Waste sampling distribution and sample collection
+Samples were collected based on the distribution of samples based on population distribution, urban vs rural areas as well as low-, medium- and high-income distribution. During the fieldwork in Fiji from September to November 2020, the in-country staff collected a wide range of data (Table 10) from households and commercial premises through audits and interviews (Figure 16). In addition, landfill and stockpile assessments were also undertaken. 
+
+Audit results — Household and commercial waste disposal and leakage 
+Overall waste disposal
+In 2020, the overall household and commercial waste disposal rate in Fiji equalled 123,304 tonnes per year. Organic waste was the most common waste type (40.3%), consisting mainly of food scraps, plant material from gardening, old baskets and other biodegradable natural materials (Figure 17). The second most common material category was paper and cardboard, contributing 16.1%, followed by plastics (10.4%) and metals (10.1%). It should be noted that many of the hygiene products, textiles, e-waste and construction materials are either entirely or partially composed of synthetic polymers, meaning the proportion of plastics in Fiji household and commercial waste is in fact greater than 10.7%. However, to ensure the analysis was accurate for pure polymer types, these categories were kept separate from other plastics. For a more detailed breakdown of all categories, please see Appendix D: Material types and sort form.
+
+Unlike other countries included in the PWFI study, it was not possible to obtain visual landfill sort records in Fiji. This raised a significant challenge for estimating the total quantity of plastic disposed of. In order to estimate the composition of Fiji waste, we assumed the quantities of waste were generated annually in Fiji and not captured in bagged waste data in Table 11. 
+
+Apart from organics, these values were determined by taking the difference between Fiji’s bagged waste data and the average composition in Vanuatu, Samoa, Grenada and Saint Lucia. Antigua and Barbuda was excluded from the average, as it is by far the wealthiest country in the sample. The average gave 65% weight to the Pacific region and 35% weight to the Caribbean region, reflecting the fact that we expect Fiji’s waste profile to be more like its Pacific neighbours than Caribbean countries, while displaying some similarities to the Caribbean countries as it is richer than its Pacific neighbours. The categories chosen were those where landfill audits in countries previously studied found significantly more waste than bagged waste audits in the same country.
+
+Household vs. commercial waste 
+Disposal rates generated by the household sector are generally higher than the commercial sector. We estimated that Fiji households disposed of 75,361 tonnes of waste per year, while the commercial sector disposed of 47,943 tonnes per year. Almost half (48%) of all household waste is organics (36,216 T/y) (Figure 18). The most common commercial waste is also organics (13,104 T/y; 27%), followed by paper and cardboard (11,958 T/y; 26%). In households, plastics comprise 8% (5,876 T/y) of all waste, while in the commercial sector, plastic waste contributes almost 15% (6,881 T/y) to all waste. 
+
+Figure 18:	Waste disposal rate (tonnes/year) and waste composition (percentage) separated for households and the commercial sector, Fiji
+Waste disposal can also be expressed as the amount of waste disposed of by an individual over a certain period, which is called here disposal intensity. It is measured in kilograms per person per day (kg/person/day). Household and commercial waste disposal intensity in Fiji in 2020 was 0.23 kilogram per person per day for household waste and 0.37 kilogram per employee per day for commercial waste. In comparison to the estimates of waste generation in Fiji in 2015 (urban: 1 kg/person/day; rural 0.6 kg/person/day) provided in the NWMPCS (Strategy 2019–29), our values are much lower because the rate of 1 kilogram  per person  per day refers to total municipal waste, including the portion that  separated out from municipal into tourism waste for the purpose of this study. 
+
+Note that ‘commercial’ waste, besides commercial businesses, also includes institutional, medical, construction, industrial and uncategorised waste. Also, note that due to the absence of visual landfill audits, the disposal rate of certain bulky items was determined by projection from countries previously studied. For this reason, there is extra uncertainty associated with the relative contribution of household and commercial premises in the categories of metals, white goods, construction, wood and rubber.
+
+Plastic waste disposal and leakage
+According to the polymer type, the most prevalent plastic waste disposed of in Fiji is made from various polymers categorised as ‘Plastics Other’ (Figure 19). This presents a serious challenge for current recycling efforts, as plastics of this category are most often non-recyclable. The commercial sector generally produces more plastic waste than household premises (Table 12). 
+
+Top 10 plastic items
+Of all plastic items disposed of by households and commercial premises, the most common items are soft plastic packaging and various single-use plastics. Almost all top 10 items could be classified as single-use plastics, which is also why they are the most prevalent waste type – they are used only once (Table 13). These items are also predominantly related to food and beverage consumption. 
+
+Note, hygiene products were not included in the top 10 items. However, if these had been included, nappies (diapers) would top the household plastic items (91%), and feminine hygiene products would be fifth (6%). In the commercial sector, nappies would be item number three (15%) and feminine hygiene number six (6%). 
+
+Note: The percentages refer to the proportion of these items in all plastic waste in the sector.
+
+Plastic waste leakage 
+According to our model estimates, around 1,939 tonnes per year of household waste and 2,205 tonnes per year of commercial plastic waste leaked into the environment in 2020 (Table 14). 
+
+Key gaps and recommendations – Household and commercial sector 
+APWC top recommendations 
+A drastic reduction in the production and use of plastics, particularly single-use plastic items and packaging, is the absolute priority when it comes to plastic pollution management. There are multiple ways to avoid the generation of plastic waste, including the following:
+Bans on single-use plastic items, such as plastic bags, cups, cutlery, plates, straws, takeaway containers, which incontrovertibly cause environmental pollution.
+Introduction of market-based instruments, such as tax deductions and increases for products with positive or negative impacts on the environment and human health, respectively. These instruments also include other financial systems, namely container deposit schemes (CDS) and extended producer responsibility (i.e. product stewardship).
+Innovations and production of alternatives to single-use plastics and plastic packaging, as well as promotion of reusable and zero-waste consumption.
+Special attention should be given to the ’false’ solutions to plastic pollution and the ‘green washing’ alternatives.
+
+The audit identified gaps and recommendations on plastic and solid waste reduction and management, from upstream to downstream of waste management, which are presented below (Table 15).  
+
+Tourism sector – Plastic quantification results
+Tourism in Fiji
+Fiji is predominately known as a deep rest and relaxation holiday destination. Aside from the significant COVID-related drop in 2020, the number of visitors has been steadily increasing (Figure 20). Tourism supports 42,300 jobs and 14% of the labour force (SPTO, 2018a) and remains one of the most important sources of income for Fijians, replacing sugar as the primary export earner. Of the businesses that support the tourism industry, 97% are small- to medium-sized enterprises and comprise a large part of the non-accommodation segment, such as tour operators and handicrafts. 
+
+The Pacific islands received 1.37 million overnight visitor arrivals in 2014. Fiji is the most popular destination in the Pacific (Figure 21), with an annual 968,926 visitors in 2019 (both cruise and air), which is 100,000 more than the 10 other Pacific countries combined (SPTO, 2019; World Bank, 2017). On average, approximately 40% of visitors are from Australia and 20% are from New Zealand. 
+
+Tourists are classified as visitors from another country who stay in Fiji more than 24 hours but less than one year. The majority of tourists visit during the high season, which runs from July to September, with 73% visiting for leisure purposes. There is a high number of repeat visitors. 
+
+The average visitor spent FJD 353 per night or approximately FJD 3,379 per person per trip.
+
+The tourism industry is vulnerable to weather events and environmental impacts such as cyclones, which are common in the region from June  to November. In 2020, all international flights and cruise vessel landings were suspended due to COVID-19 restrictions.
+
+Institutional framework 
+Waste generated by the tourism sector, and then subsequently transported, is governed under national legalisation (see international and national regulations). Appendix K: National legislation provides a comprehensive list of legislation pertaining to waste management in Fiji. 
+
+The roles of key statutory bodies, such as the Land Transport Authority, Water Authority of Fiji and Maritime Safety Authority of Fiji, are important for effectively regulating and monitoring air pollution in the transport sector and waste discharged into water mains, drains, streams, rivers and the sea by commercial facilities and ships or vessels, including wrecks (Republic of Fiji, 2014).
+
+Specific legislation relating to the tourism sector includes:
+Tourism Fiji Act 2004 – establishes Tourism Fiji to ‘maximise sustainable and long-term benefits of Fiji’.
+Fiji Maritime Transport Decree 2013 – regulates discharge of waste from vessels in Fiji’s EEZ.
+Fiji’s tourism sector, particularly cruise and yacht tourism, has been well studied, especially when compared with other Pacific island nations. In the Fiji Tourism Strategy (2021) and the Economic Impact of Cruise ships in Fiji (2019), little information is provided regarding waste management strategies for the sector or the economic impact of waste generated by the cruise industry in Fiji.
+
+The Coral Coast chapter of the Fiji Hotel and Tourism Association has called on the government to establish a plastic recycling facility in the country and urged it to implement a refundable deposit on all plastic bottles.  
+
+Roles and responsibilities 
+
+Waste service provision 
+Land-based tourism
+For the purpose of this report, land-based tourism includes air travellers as well as those staying in accommodation on land. 
+
+Tourism accommodation
+Most visitors to Fiji stay in hotels and resorts. In 2017, there were 401 licensed hotel properties in Fiji (SPTO, 2018a). Of these, 32% are premium, 17% are high quality, 24% are mid-range and 28% are budget. The largest hotels, including the Intercontinental Fiji Golf Resort and Spa (Coral Coast), Grand Pacific Hotel (Suva) and the Sheraton Fiji Resort (Denarau) have conference capacities of 450, 600 and 1,200 respectively (Republic of Fiji, 2021). Waste from accommodation premises is managed as commercial waste, as described in the section on Waste service provision.
+
+There is currently a user-pays system in place for 12 participating hotels working with local private waste recyclers. These hotels include the Tanoa group, Novotel, Mercure, Laucala Island, Kokomo, Hilton, Tokatoka, Hideaway, Naviti, Yatule, Gecko’s and Waterfront. Recyclable items are accepted for a fee (see Table 17) including paper, cardboard, plastic, aluminium cans, tin cans, glass bottles, PET bottles, preforms, PET bottle lids, LDPE and HDPE. Hotels separate recyclables from general waste, which is collected by Waste Recyclers Fiji and sorted at their Navutu yard. Aluminium cans provided to the recycler are reimbursed at a rate of 0.80 FJD  per kilogram and Paradise beverage company glass bottles at FJD 1.00 per crate. The user-pays system is driven entirely by the recycler. A dedicated sales and marketing employee approaches all resorts and businesses to promote the benefits of recycling.
+
+Airline tourism
+Nadi International Airport is Fiji’s main airport and an important regional hub for the Pacific. It has direct flights to Australia, New Zealand, USA, Hong Kong, Singapore, Japan and South Korea. Nausori International Airport, also known as Luvuluvu, is the secondary airport, located approximately 23 kilometres outside Fiji’s capital, Suva. According to Fiji Airports Limited (FAL), air seat capacity in Fiji is in excess of 1 million passengers a year, spread across 11 airlines (Fijian Government, 2021). The number of passengers arriving in Fiji by air in 2019 was 894,389 (FBS, 2019). 
+
+The waste from international and domestic airports and airlines is the responsibility of Fiji Airports Limited. At Fiji’s international airports, Nadi and Nausori, airline- and airport-generated waste is managed separately, with the offloaded waste from airlines designated quarantine in nature. All quarantine waste must be incinerated under requirements set by biosecurity. Both Nausori and Nadi have an onsite incinerator for this purpose. Waste generated at airports is sorted and recycled. At Nausori, paper, plastic bottles and aluminium cans are sorted and recycled by local recycling contractors, with the remaining non-recyclable waste taken to Naboro Landfill by Waste Care Fiji. At Nadi airport, waste is also sorted and recycling items are taken to a local recycling contractor; non-recyclable items are transported to Vunato Landfill in Lautoka.
+
+Aircraft waste and airport-generated waste at Fiji’s 13 domestic airports is not sorted for recycling. At Matei, Labasa and Savusavu airports, waste is disposed of at the designated urban landfill. The remaining outer island airports often burn waste, as quantities received and generated are low.
+
+Sea-based tourism 
+The number of passengers arriving by sea into Fiji was approximately 188,898 in 2019 and decreased to 79,010 in 2020 due to a significant drop in cruise tourists. 
+
+Tourism in Fiji is largely centred around reefs and ocean, including beach activities, boating, diving, snorkelling and more recently, surfing. Yachting is a more recent niche growth market. 
+
+Yachting 
+There are five distinct cruising areas for yachts in Fiji, all featuring white sand beaches and clear tropical waters. Yacht visitors to Fiji in 2018 numbered 4,473 from 721 visiting yachts (including 54 super-yachts). The yachting sector generated FJD 61 million in 2018, with the annual average spending per visitor of FJD 7,808 per trip (SPTO, 2018b).
+
+Under current international and Fiji legislation, food waste is the only allowable waste to be dumped in the ocean from yachts (which must be approximately 20 kilometres or 12 miles or more from land). Disposal of all other waste is prohibited and must be retained on board and discharged at shore reception facilities. Disposal of plastics at sea is prohibited under both international regulations (MARPOL 73/78) and Fiji national law (Maritime Transport Decree 2013). The Fiji Maritime Transport Decree 2013 states that any ship (including yachts) within Fiji waters may discharge food waste, paper, rags, glass, metal, bottles and crockery if: 
+a) the garbage has been ground to a particle size of 25 mm or less; and 
+b) the discharge occurs at least: 
+i. 3 nautical miles from the nearest reef system; and 					ii. 0.5 nautical miles from any offshore installation or device. 
+
+There are additional regulations relevant to larger vessels (Mackay, 2016). The Biosecurity Authority of Fiji (BAF) has the power to administer the penalties for all vessels (including cruise, yachts and fishing) in Fiji’s EEZ if they inappropriately discharge waste at sea, as outlined in Table 18.
+
+On arrival, yachts must clear biosecurity checks and declare any food on board (animal or plant), animal products or soil. A BAF officer will either board the boat or meet it at the wharf, where a BAF levy is payable. Some items will not be allowed to be kept on board and are incinerated as quarantine waste. 
+
+Waste disposal facilities for yachts are available at official marinas. International and domestic arrivals remove waste from their vessels and dispose of it to waste receptacles located around the marina that are available 24 hours a day, seven days a week. Waste is collected and disposed of at landfill, where tipping fees are charged. Waste disposal costs at ‘yachts only’ marinas are incorporated into the standing port use charge. Yachts visiting the Royal Suva Yacht Club must pay a monthly membership fee of FJD 45 per month to use the facilities, including waste disposal. There is generally no waste separation at marinas in Fiji. Vessels can, however, provide their recyclables to Waste Recyclers (Fiji) Ltd.
+
+There are no waste facilities for anchorages in the outer islands, with yachts disposing of waste generated on board within local communities.
+
+Cruise ships
+There were 184,425 cruise-ship visitors to Fiji in 2017 from approximately 100 cruise-ship calls across five ports (SPTO, 2018a). In 2019, the number of passengers decreased significantly to 74,537 (FBS, 2019), indicating either a temporary or permanent drop in cruise-ships passengers choosing Fiji as a destination. Passengers typically spend less than a day (four hours), with the port at Suva receiving 40% of arrivals and 24% at Lautoka port (Ministry of Industry, Trade and Tourism, 2019). On average, 2,073 passengers are on board per call. 
+
+Cruise tourism contributes USD 21.4 million directly to the Fijian economy. Each cruise-ship voyage spends on average FJD 305,000 (USD 147,000) per port of call and each cruise-ship passenger spends FJD 90 (USD 44). Twenty-four per cent (24%) of passengers did not spend in Fiji, which has implications for balancing the benefits of income earned against the associated costs of waste services for cruise-ship calls. Future plans for cruise lines in Fiji include considering basing two or three cruise ships in Fiji (World Bank, 2017).
+
+Waste offloaded from international vessels is not permitted to leave the port under biosecurity instructions and is incinerated on site. All vessels (except yachts) arriving in Fiji from overseas ports and international waters must first report to a Fiji Revenue and Customs Service (FRCS) at the port of entry. Cruise ships notify their shipping agent of their intention to offload waste. The cruise-ship agent arranges a waste-bin service provider and skip truck for waste disposal using nine-cubic-metre skip bins. All waste is incinerated on site. There is no source separation. All incinerated ash and waste from the local wharves are collected by private contractors. The Fiji Ports Corporation Limited (FPCL) contractor is Pacific Waste Managers.
+
+A fee is charged for cruise-ship waste incineration at the Suva and Lautoka ports at a cost of FJD 32 per hour of incineration. Local wharves charge FJD 20 per vessel for using the waste reception facility.
+
+Port Denarau Marina Ltd collects waste from inter-island vessels, cruise ships and yachts berthing at Denarau Port. Waste is then collected by a private contractor (Honey Dew) and disposed of at the landfill.
+Sea ports 
+Of the six ports and marinas in Fiji, two receive cruise and pleasure craft (Table 19). In 2018, 1,877 vessels called at the various ports within Fiji. The Port of Suva received most vessels, followed by Lautoka Port.
+
+Waste disposal practices
+Most waste in the tourism sector is collected (Figure 23). It should be noted that the 14.3% of plastic dumped in the water is actually based on one response only. 
+
+APWC 2020 audit — Tourism methodology 
+The data for the tourism sector was collected both via physical audits as well as through a number of interviews and a stakeholder consultation process. The tourism sector is divided into three clear sections from a data collection perspective:
+Land-based tourism data – collected from resorts, hotels and B&Bs
+Water-based tourism data - waste auditing for cruise liners, yachts and passenger ships
+Air-based tourism data - estimation for total waste from air travellers
+
+Land-based tourism data collected
+The land-based data collection included the following activities:
+Waste samples were collected and audited from 12 hotels and six B&Bs giving a total of 18 samples
+Waste audits were supported by interviews with two resorts, six hotels and one B&B 
+
+Hotels were defined as accommodation with more than 20 rooms and not classified as resorts and B&Bs were defined as accommodation with less than 20 rooms. All resorts had the word ‘resort’ in their name. 
+
+Water-based tourism data collected
+Although under normal circumstances Fiji would accept waste from cruise ships and yachts, due to the outbreak of COVID-19 during the audit period, Fiji ceased to accept international waste and our team were then unable to collect any waste samples. 
+
+Air-based tourism
+The waste produced by tourists during short-, medium- and long-haul flights was used to determine the air-based tourism waste. Flight info was purchased from www.flightradar24.com/ and is presented below.
+
+The composition of waste was generated based on airplane cabin waste characterisation: Knowing the waste for sustainable management and future recommendations. Waste Management, 96, 57-64.
+
+No waste audits were conducted for airline waste in Fiji.
+
+Overall sampling undertaken for the tourism sector is below:
+
+A leakage model was built for the tourism sector but the principles behind the analysis are as per the table below. 
+
+Tourism leakage analysis principles
+
+Audit results — Tourism waste disposal and leakage
+Overall waste disposal
+The overall quantity of waste disposed of by the tourism industry in Fiji was estimated to be approximately 16,211 tonnes per year. The most prevalent waste category by a large margin is organic waste, comprising 61% of all waste (9,859 T/y) (Figure 24). The second most common category is paper and cardboard (2,190 T/y; 13.5%), followed by plastics (2,117 T/y; 13.1%). 
+
+Comparison of waste disposal among tourism subsectors 
+Tourists visiting Fiji are responsible for the largest overall share of disposed waste and the largest proportion of plastics. The amount of waste generated by cruise ships was calculated by assuming that each cruise ship carried approximately the same waste quantities and composition as reported in the Caribbean island nation of Antigua and Barbuda, where a visual audit of cruise waste was conducted (see PWFI APWC Antigua and Barbuda report). In comparison to Antigua’s 733,526 annual tourist cruise arrivals, Fiji saw an average of 239,270 cruise arrivals in 2019. Audits of yacht waste from Antigua and Saint Lucia were also used to estimate the composition of yacht waste in Fiji. There were 4,473 yacht passengers arriving in Fiji??? in 2019. 
+
+As previously mentioned, land-based tourism waste (15,305 T/y) generally outweighs airline (384 T/y), cruise-ship (495 T/y) and yacht (27 T/y) waste. The most dominant waste type in land tourism is organics (63 %), followed by paper and cardboard (15.3%) (Figure 25). Airline waste mainly consists of organic waste also (48.8%). Cruise-ship waste is dominated by glass (26.5%), paper and cardboard (21%). The most dominant types of waste disposed of by yachts is organics (32%) and glass (22.7%). 
+
+Land-based tourism
+Our assessment in both Samoa and Vanuatu found that overnight tourists disposed of 1.5 kilograms per person per day of waste in non-pandemic years. Therefore, an assumption has been made that overnight tourists also disposed of 1.5 kilograms per person per day in non-pandemic years in Fiji.
+
+Air-based tourism
+Airline waste generation was calculated from the number of incoming aircraft and applying the composition and generation rates reported by Blanca-Alcubilla et al. (2019). There were 16,641 flights inbound to Fiji in 2019 (Table 21).
+ 
+Sea-based tourism (yachts and cruise ships)
+In Antigua, cruise tourists were found to each dispose of 1.39 kilograms of waste, while in Saint Lucia this figure was 2.79 kilograms per arrival. We do not have independent estimates from other countries surveyed. It was assumed that in non-pandemic years, cruise tourists in Fiji disposed of 2.07 kilograms on arrival. 
+
+Yacht arrivals generated sharply different quantities of waste, depending on the country surveyed – from 0.8 kilogram per arrival in Samoa to an average of 16 kilograms per arrival in the Caribbean. Fiji is noted to be the largest yachting centre in the Pacific island region, receiving substantially more large yachts and having better services than other islands in the region. It is likely, therefore, that yachts offload more waste at Fiji ports than at other Pacific island ports (MDF, 2018), although it is not known if the waste disposal intensity is close to what was witnessed in the Caribbean. We assume that disposal in Fiji is a weighted average of the Pacific and Caribbean figures – 6.04 kilograms per arrival.
+
+Subsector contribution in waste disposal
+Most waste categories dominate in the land-based tourism subsector (Figure 26). 
+
+Plastic waste disposal and leakage
+The overall disposal of plastic waste by the tourism sector in Fiji equals 2,117 tonnes per year. The largest amounts of plastics were disposed of by the land-based tourism subsector (Table 22). Regarding the polymer type, besides the category Plastics Other (7) that includes various polymers, the most common are PET, LDPE and PS. 
+
+Top 10 plastic items
+The most common plastic items found in land tourism waste are foamed polystyrene food containers (Styrofoam takeaway containers), contributing almost 50% to all plastic waste, followed by water bottles and soft plastic packaging (Table 23). 
+
+Plastic waste leakage
+We estimated that the tourism sector leaks more than 733 tonnes of plastic waste (Table 24) into the environment or disposes of it improperly (burning, burying, etc). If we suppose that the tourism sector leaks plastic at the same rates as Vanuatu overall, it will produce the quantities per polymer type as provided in Table 25.  
+
+There are few reliable sources for the rate of waste generation (as opposed to disposal) by cruise ships, which makes it difficult to estimate how much waste is leaked. CE Delft 2017 performed audits on waste logs of a variety of ships, including cruise ships, and provided estimates of the volume of waste produced per passenger, although these estimates are very imprecise. After accounting for uncertainty in waste disposal from our data and overall generation rates from CE Delft 2017, the median estimate for leakage or incineration of plastics was 51.5%. As it was not possible to obtain a precise figure for the rate of waste generation, our data are consistent with cruise-ship leakage rates anywhere from 0% to 91%.
+
+The estimated annual quantity of ashes offloaded from cruise ships was 71 tonnes per year. The original weight of material to produce this much ash depends mostly on the composition of the material incinerated. CE Delft 2017 reports that one ship recorded a 99.5% reduction in volume across all materials that were incinerated. Given that ashes are relatively dense compared with mixed waste, this might correspond to a 97% reduction in weight. This suggests that incineration may account for approximately 2,370 tonnes per year of material. The median estimate of incineration or leakage was only 1,480 tonnes per year, suggesting that the entire ‘leaked’ quantity might be accounted for by incineration. However, the upper leakage estimate of 6,663 tonnes per year allows some room for leakage over and above waste incineration.
+
+Key gaps and recommendations – Tourism Sector
+APWC top recommendations 
+A drastic reduction in the production and use of plastics, particularly single-use plastic items and packaging, is the absolute priority when it comes to plastic pollution management. There are multiple ways to avoid the generation of plastic waste, including the following:
+Implementation and enforcement of MARPOL provisions provided under national laws is inadequate and should improve. No formal specific plans or policies exist for managing waste from cruise ships, yachts and planes. These should be developed.
+PET bottles – policy should be developed to require large hotels and resorts to provide mandatory water refilling stations for guests with reusable bottles. Plastic PET bottles under 500 millilitres in size should be included in the ban.
+A special waste management fund could be set up to channel all waste management-related revenues from future CDL, advance recycling fees (ARF), advance disposal fee s(ADF) and other market-based instruments to create self-sustaining waste management funds that will improve tourism industry waste management. 
+Promotion of sustainable tourism practices, such as dining in, local craft markets and other tourist experiences rather than shopping, should be undertaken. 
+Most tourism activities and structures do not carry out waste segregation, nor do hotels and resorts. Best-practice recycling guides for resorts and hotels to segregate organic waste and recyclables should be established.
+There is a lack of appropriate waste service arrangements to support tourism activities in the remote and rural areas, which are not able to transport their waste to the existing waste landfills. A prepaid bag system should be introduced to allow remote resorts to use the current collection provided by the government.
+The audit identified gaps and recommendations on plastic and solid waste reduction and management, from upstream to downstream of waste management, which are presented below (Table 25).  
+
+Fisheries
+Fisheries overview
+Fiji has a coastline of 5,010 kilometres and an exclusive economic zone (EEZ) of 1,281,703 square kilometres. It shares maritime boundaries with Tuvalu to the north, Wallis and Futuna to the north-east, the Kingdom of Tonga to the southeast, New Caledonia to the southwest and Vanuatu and the Solomon Islands to the north-west. 
+
+Approximately 27% of Fiji’s population reside within one kilometre of the coast (Andrew et al., 2019). The importance of nearshore fishing activities to the lives of rural people and the national economy in Fiji cannot be underestimated. Although marine resources play a significant role in society, culture and the economy, estimates of fish production and consumption patterns are variable. In relative terms, fishing is the third largest natural resource sector behind sugar and ‘other crops’. Tourism is another important industry for Fiji, with established relationships to the fisheries sector (Gillett, 2016).
+
+Inshore fisheries 
+In accordance with the Ministry of Fisheries approach, ‘inshore fisheries’ means fishing within qoliqoli – traditional fishing grounds located within Fiji’s archipelagic waters. Several recent studies (summarised in Gillett, 2014) suggest that many of the common inshore marine resources of Fiji are fully or over-exploited. The Food and Agriculture Organization of the United Nations (FAO) broadly categorised the fisheries sector in Fiji into six main areas: coastal subsistence fishing, coastal commercial fishing, offshore locally-based fishing, offshore foreign-based fishing, freshwater fishing, and aquaculture (Gillett, 2011). The sector supports food and nutrition security, particularly in rural coastal areas, livelihood and income generation, rural development, environmental preservation, and contributes to the country’s gross domestic product (GDP).
+
+Numerous studies have attempted to estimate the proportion of the population active in different parts of the fisheries sector. Ram-Bidesi et al. (2011) reported that coastal subsistence fishers in Fiji account for 65% of coastal fishing activity. Starkhouse (2009) estimated the number of (a) subsistence fishers in the country to be about 23,000; (b) full-time artisanal fishers to be about 5,000; and (c) part-time artisanal fishers to be 12,000. Gillett (2016), using data from an earlier study by Hand et al. (2005), estimated there were 9,000 artisanal coastal fishers and 3,000 coastal subsistence fishers in Fiji.
+
+Estimates of catches from Fiji’s inshore fisheries vary significantly and are influenced by both real changes in fishing activity and differences in survey methodology (Gillett, 2016). Gillett reports that coastal commercial fishing statistics reported to FAO are estimated from a statistical system that only accounts for a portion of the commercial catch. In addition, the estimates of subsistence catch from the Ministry of Fisheries are reported to rely on a crude, small-scale fishing survey in 1979, which covered the main island of Viti Levu only. Recent estimates suggest that Fiji’s annual coastal fishery production is about 16,000 tonnes for subsistence fishing with an additional 11,000 tonnes harvested by commercial fishing operations that mainly supply urban markets (Gillett, 2016). Because of under-resourced regular data collection programmes, nearshore fisheries production data for Fiji may seriously underestimate actual production, a common factor in the PIC data (Zeller et al., 2016). This relates to data around the number and type of fishing boats used as well. 
+
+As per Gillett (2020), there were 1,276 registered domestic or artisanal fishing vessels in Fiji in 2020. However, according to several sources, the actual number of small fishing vessels (including non-registered commercial boats and boats used for subsistence fishing) is probably much greater. The experience of senior officers of the Ministry of Fisheries in the geographic divisions indicate that the actual number of fishing vessels operating is two to three times the number of registered vessels.  The inshore fishery supports a variety of fishing gear and collection methods, including free diving, spearfishing, gillnets, hand lines, droplines, trolling and traps. Offshore fisheries
+The 2020 Part 1 Annual Report to the WCPFC provides a summary of activity in Fiji’s offshore fishery sector up to and inclusive of 2019. During 2019, Fiji had 93 vessels in its national longline fleet, of which seven vessels were chartered, foreign-flagged vessels (likely Chinese- or Taiwanese-flagged) (Table 26). There is a limit of 60 vessels authorised to fish in Fiji’s EEZ. Thirty-seven (37) of those vessels confine their fishing activity to Fiji’s EEZ, while 23 vessels fish in both the EEZ and adjacent high seas. There were 24 national vessels also operating in the high seas. Nine vessels are licensed to fish Fiji’s archipelagic and territorial seas and 21 vessels fish in other countries’ EEZs in the region. The 2019 at-sea human observer coverage for Fiji was reported to be 16.02% (WCPFC, 2020). 
+			
+The national tuna fishing fleet consists of longline fishing vessels targeting tuna (albacore, bigeye and yellowfin) and other oceanic pelagic species taken incidentally. The value of tuna exported from Fiji in 2018 was estimated to be USD 48 million. The sector accounts for less than 1% of Government revenue and employs approximately 4,212 people (FFA, 2019). In addition, 1,276 domestic artisanal fishing boat licences exist in Fiji.
+
+The gear used by the Fijian offshore longline sector is standard pelagic longline gear used to target tuna (Figure 29, left panel). The gear consists of a thick mainline with snoods (or branch lines) attached at regular intervals by stainless steel clips. Lines are suspended using plastic floats, with the distance between the floats regulating the depth at which hooks are set. Up to three radio buoys are attached to the line to track location. Mainlines are typically monofilament nylon; branch lines are typically monofilament but may also include synthetic twine (Figure 29, right panel). Clips and hooks are stainless steel. Typically, between 3,000 and 3,500 hooks are used per set.
+
+Aquaculture
+The aquaculture industry in Fiji is relatively small, with Figure 30 showing the annual production over the past 30 years. The feasibility of aquaculture has attracted some investment over a number of years for species including tilapia, freshwater prawns, carps, saltwater shrimp, milkfish and seaweed (FAO, 2018).
+
+Plastic and fisheries 
+The tuna fishery in the Western and Central Pacific Ocean (WCPO) is the largest in the world, representing 54% of the global tuna catch and 78% of the total Pacific Ocean catch (WCPFC, 2019). As this catch is predominately caught by purse-seine or longline fishing gear, the purchasing and monetary value of these two gear types is significant, with purse seiners accounting for 58% (USD 3.40 billion) of the value of the WCPO catch and longliners 25% (USD 1.46 billion). There are currently as many purse-seine vessels fishing in the WCPO from distant-water fishing nations (namely from Japan, Korea, Chinese Taipei and USA) as there are vessels from the Pacific.
+
+Figure 31 below gives an overview of the purse-seine and longline fishing industry in the Pacific and gives an indication and context of how much plastic fishing gear is used in Fijian waters. As plastic purse-seine nets can reach more than 2,000 metres in length and 200 metres in depth, this is a significant amount of plastic fishing gear that has the potential to become ALDFG. Other typical plastic fishing gear includes rope, fishing nets and lines, in addition to fishing vessels made of materials such as fibreglass, and plastic antifouling products.
+
+Common plastics in fishing gear
+Netting, which is largely comprised of mono- or multifilament fibre polymers woven into knotted and knotless meshes. The main types of netting polymers include polyethylene (PE), polyamide (PA) and polyethersulfone (PES), which are non-biodegradable.
+Ropes and lines comprised of a variety of non-biodegradable polymer materials, including polypropylene (PP), PE, ultra-high molecular weight polyethylene (UHMWPE) and PA.
+Floats and buoys, commonly comprised of PE, acrylonitrile butadiene styrene (ABS), expanded polystyrene (EPS) and polyurethane (PUR).
+
+Abandoned, lost or otherwise discarded fishing gear (ALDFG)
+Pollution from fishing vessels is a serious problem in the WCPO, particularly from purse-seine vessels. It was estimated that 71% of the purse-seine pollution incidents were documented as waste dumped overboard, and only 13% as ALDFG (Richardson et al., 2017). Of the ‘waste dumped’ overboard, 60% was found to be plastics in longline activities (Figure 33) and 37% in purse-seine activities (Figure 33). Furthermore, 30% of pollution incidents reported by observers occurred within Fiji’s EEZ, and 21% of pollution incidents observed on longline vessels were between Fijian-flagged vessels (Richardson et al., 2017). (Note: This could result from a higher number of observers being present on Fijian vessels.)
+
+Plastic materials other than fishing gear
+A majority of domestic fishing vessels in Fiji engaged in same-day or overnight fishing operations, with operators taking subsistence items such as food, water and drink containers on board. Vessels engaged in multi-day operations are more likely to take plastic items such as food packaging (for example, bags with rice, pasta, sugar, drink mix, salt and other seasonings) and food, water and drink containers. Other plastic-containing materials include buckets, life jackets, flares and sounding equipment.
+
+Institutional framework
+The management of fisheries resources in Fiji is divided among national ministries, provincial governments and indigenous Fijian institutions. At the national level, the Ministry of Fisheries is the main agency responsible for the administration of the fisheries sector. It regulates fishing (catch limits and entry) mainly through the administration of a permit and licensing system. A list of waste management legislation associated with the fisheries sector is outlined below.
+
+International MEAs
+MARPOL Annex V prohibits discharge of garbage, including fishing gear, from all ships and vessels. 
+The Marine Environment Protection Committee (MEPC) of the IMO is currently developing an action plan to address marine litter from ships, including through abandonment and loss of fishing gear. 
+
+Fiji is a member of the following Regional Fishery Bodies:
+Pacific Islands Forum Fisheries Agency (FFA)
+Secretariat of the Pacific Community (SPC)
+Western and Central Pacific Fisheries Commission (WCPFC)
+Pacific Islands Forum Secretariat (PIFS) in Suva
+Regional Fisheries Ministers Meeting (RFMM)
+
+Governing national legislation 
+The Ministry of Fisheries is responsible for the Fisheries Act (1942), the principal legislation governing the sector. The Act has been amended on numerous occasions. The Offshore Fisheries Management Decree (2012) and the Offshore Fisheries Management Regulations (2014) describe most of the administrative and regulatory requirements for the offshore tuna fishery. 
+
+The monitoring of pollution from ships is a collaborative effort between the Ministry of Waterways and Environment (MOWE), through its Department of Environment, the Maritime Safety Authority of Fiji and, if the pollution occurs within a port area, the Fiji Ports Corporation Limited (FPCL). Current applicable legislation includes:
+Maritime Transport Act 2013 and associated regulations – the discharge of plastics, dunnage, lining and packing materials within Fiji waters (excluding a port or approaches to a port) is an infringement offence with the maximum fine being FJD 2,000 if the ship from which the discharge has been made is less than 15 metres in length, and FJD 10,000 if the ship is more than 15 metres in length.
+Fisheries Act 1942 – an Act to make provision for the regulation of fishing in the fisheries waters of Fiji.
+The Sea Ports Management Act 2005 and associated regulations.
+Fiji Maritime Transport Decree 2013 – regulates discharge of waste from vessels in Fijian EEZ.
+
+Roles and responsibilities 
+
+Waste service provision
+The Ministry of Fisheries is responsible for the regulation of fisheries waste, although the Ports Authority or the local council is responsible for the provision of waste receptacles at ports. Fisher folk are responsible for the repair and disposal of fishing gear.
+
+There are three major ports servicing fishing vessels in Fiji (see Table 19: Port waste management infrastructure). 
+The Port of Suva provides waste services to fishing vessels for a fee, accepting general waste and fishing gear. Five large skip bins are removed between two and five times per week to Naboro Landfill. A study on the Port of Suva supporting the development of a plan for a Regional Ships Waste Reception Centre (RSWRC) (SPREP, 2014a) reported that waste for recycling was accepted for collection by three commercial entities, possibly for re-export and processing elsewhere.
+The Port of Levuka does not charge for waste removal, which is collected by the local council twice a week and taken to Levuka dumpsite. 
+The Port of Muaiwalu 1 provides waste services for a fee that is incorporated into the standing port charge for vessels. Two skip bins are removed three or four times per week to Naboro Landfill.
+
+At smaller landing sites around Fiji, waste is either collected by local councils or managed by the fisher folk themselves.
+
+Waste disposal practices
+APWC interviews indicate that most waste generated by fisher folk is collected (Figure 34). Due to a low number of interviewees, these results are not statistically strong enough to reflect the true situation on the ground. For example, only one boat crew interviewed stated that it burned plastic, and one stated that waste was buried. Burning occurs most likely in on-board incinerators as shown on Figure 35a. On some occasions, waste is also separated on board (Figure 35b). 
+
+APWC 2020 audit – Fisheries methodology
+The size and type of fishing vessels operating in a country’s EEZ are different depending on the country. 
+
+APWC targeted two types of leakage information for this sector: 
+leakage due to the consumer activities undertaken by fisher folk whilst on a fishing trip; 
+leakage due to ALDFG.
+
+Samples were taken from seven domestic fishing vessels and eight interviews were conducted. Due to COVID-19, no sampling was allowed to be undertaken from international fishing vessels.
+ 
+Modelling was then undertaken assuming a national fishing fleet that comprises 93  commercial vessels that can fish in the Fijian EEZ and internationally. (This number includes seven chartered vessels that were Chinese Taiwanese flagged.) In addition, this data was complemented by 1,276 domestic and artisanal fishing boats that are currently licenced. For a more detailed description of the methodology, please see Appendix C: Project methodology.
+
+The data collection and analysis principles are provided below.
+
+Audit results – Fisheries waste disposal and leakage 
+Waste disposed from consumer activities on fishing boats
+There are 93 fishing vessels reported to be active in Fiji waters, taking an estimated 6,975 trips each year. Waste audits indicated that each fishing trip was associated with 0.09 kilogram of offloaded waste. It was estimated that the fisheries sector disposes of around 42.3 tonnes of solid waste annually, of which 22% or 9.3 tonnes are various plastics. The most dominant category is hazardous waste (48%) (Figure 37), consisting of batteries. Battery type was not specified but we assume these are batteries from torches used to attract fish. Possibly the main reason for the dominance of this category is the high weight of batteries. 
+
+Plastic waste disposal
+The amount of plastic waste generated by the fisheries sector is 9.3 tonnes per year. The most common polymer types are PET 1 (58%) and polypropylene (PP 5) (21.5%) (Figure 38). The Top 10 plastic items table shows that most waste disposed of by the fisheries sector is not related to fishing activities but to consumption of food and beverages (Table 28). These items should be classified as ocean-based pollution when dumped at sea, even though they are not directly linked to marine activities (fishing, sailing, petrochemical exploration). However, it is a practice that consumption-related items recovered in beach and seafloor assessments are associated with land-based activities. This exemplifies the possible underestimation of the proportion of ocean-based pollution in plastic pollution assessments.           
+
+Plastic waste leakage
+Plastic waste leakage in the fisheries sector was calculated in two ways:  
+Plastic waste leakage based on field data collected as per the audit methodology. This is waste generated by fisher folk when they are undertaking fishing-related activities, from personal use. 
+Plastic waste leakage desktop study, where leakage calculations are based on assumptions derived from a desktop study literature review (peer reviewed studies from 1978–2021) by Richardson et al. (2019). These estimations are not linked to physical in-country auditing.
+
+Plastic waste leakage based on the waste audit
+If plastic leakage from fishing vessels is at the same rate as other examined sectors, the average annual leakage (for 2019) is given in Table 29. The polymer type leaked at the highest rate from fisher folk during fishing seems to be PET. 
+
+Plastic leakage in the form of fishing gear (ALDFG) – desktop study
+For the purpose of ascertaining leakage rates of fishing gear from the fisheries sector APWC calculated the following estimates of leakage rates adopted from Richards, K. et al. (2019) whereby average net loss is 5.7%, average trap loss is 8.6% and average line loss is 29%. 
+
+To ascertain the amount of fishing gear that has the potential to be leaked, the types of fishing activities, number of vessels and season length were aggregated. It was assumed that per-vessel usage was identical to other countries studied. These estimates are corroborated by Richardson, K. et al. (2018), whose interview data suggest that nets are replaced around once per year. 
+
+In addition, the following assumptions were made:
+each fishing vessel used on average 5.8 lines, 1.1 nets and 0.9 traps and pots; 
+leakage rates are adopted from Richardson, K. et al. (2019) as per above;
+there are gaps in relation to recording fisheries activities across a number of countries, so it is imperative to note that the data set is incomplete and inconsistencies across each country are common. 
+
+The table below provides an outline of the potential leakage rate of individual fishing gear items, either whole pieces or parts of gear, in Fiji. 
+
+To determine the potential leakage rate of fishing gear per country by polymer type, a number of assumptions were made.  All fishing lines weighed 5 kilograms, all nets 60 kilograms and all traps 20 kilograms, and the material composition breakdown of each type of fishing gear is outlined in the table below.
+
+The material composition and weight of each gear type was applied to the potential leakage rates of fishing gear as per Table 30 above to ascertain the potential leakage rates per country of interest based on the polymer composition in the table above. 
+
+The calculations show that in both the Pacific and Caribbean regions overall, nylon material (Other 7) in fishing gear is the most frequently leaked polymer of all fishing gear (85%), followed by HDPE (5%), plastics other than nylon (2%) and PVC (less than 1%). A breakdown of polymer type and gear type is shown in the table below.
+
+ALDFG leakage was also calculated using import numbers and is presented below. 
+
+Potential leakage of fishing gear imported (benchmarking)
+Each country provided import data linked to Customs HS codes related to plastic material in fishing gear. In 2019, the countries in focus imported approximately 195.64 tonnes of fishing gear containing plastic components; Fiji was accountable for 33% of all imports. It is important to note, however, that 19% of the import data is missing, as this was not received on request. 
+
+Leakage based on imported fishing gear
+Here the potential leakage of fishing gear is calculated by applying the Richardson et al. (2019) leakage percentage rate directly to total imports of fishing gear (2019) in order to ascertain the possible weight of leaked gear (Table 34), noting that import data is not complete. The calculations suggest that an average of 26.83 tonnes of fishing gear is leaked annually and the Pacific region is potentially responsible for 80% of leaked fishing gear. As stated earlier, we are unable to break down the polymer type using HS codes, however it can be assumed that in excess of 50% of the fishing gear leaked would contain mono- or multifilament nylon polymers.  
+This method of estimation yields a substantially smaller estimate of leakage than the previous one. This may be because customs records are incomplete – note that the estimate for the Pacific region here is 28.6 tonnes, quite close to the estimate of 27 tonnes above, while leakage from the Caribbean region is estimated to be 7.0 tonnes, which is far from the 42 tonnes estimated above. This suggests that the import dataset for the Pacific region may have been more complete than the dataset for the Caribbean region.
+Table 34: Imports and potential leakage of fishing gear based on 2019 imports (tonnes/year)
+
+Gaps and recommendations – Fisheries 
+Drastic reduction in the production and use of plastics, particularly single-use plastic items and packaging as well as prevention of the loss of fishing gear, is the absolute priority when it comes to plastic pollution management. There are multiple ways to avoid the generation of plastic waste, as can be seen in the table below.
+
+Plastic flow analysis
+Marine plastic pollution
+Asari et al. (2019) estimated that PICs contribute to global mismanaged plastic waste with 1.3% to 2.7% and, depending on the scenario, ranging between 156,000 and 327,000 tonnes per year. The authors proposed the potential reasons for leakage to be relatively low waste collection rates in rural areas and the high generation rates of plastic waste. 
+
+Plastic waste generation and disposal in Fiji
+Plastic and other solid waste disposal in Fiji is quite low, particularly in the household, commercial and fisheries sectors (Figure 39). Overall, SWM in Fiji is slightly better than in Samoa and Vanuatu, however since there is a large gap in the waste service coverage in remote and rural areas, pollution potential is still considerably high. With respect to plastic waste generation, expressing the amounts in weight (grams or kilograms) gives the impression that negligible amounts of plastic waste are disposed of on daily basis. For example, data show that on average, a Fijian resident disposes of around 20 grams of plastic per day in household waste. If an empty 600-millilitre plastic bottle (Islam et al., 2018) weighs about the same amount, this would mean that the 883,483 residents in Fiji dispose of the amount of plastic that equals 883,483 bottles in just one day. Extrapolated to a year, that is equivalent to more than 322 million plastic bottles from this one sector alone. The hospitality industry generally creates large amounts of waste, particularly disposable plastics, and in Fiji, we estimated that the disposal intensities are eight times higher than in households. 
+
+The overall plastic waste disposal rate across all the sectors – household, commercial, tourism and fisheries, has been estimated at almost 15,000 tonnes or 83,000 cubic metres per year. The commercial sector disposed of the most plastic waste annually, generating more than 6,800 tonnes per year and almost 40,000 cubic metres of plastic waste annually (Figure 40). 
+
+With respect to the polymer type, the most common plastics disposed of are the Plastics Other (7) category, which is generally non-recyclable (Figure 41). In the commercial sector, this category comprises more than half of all plastic waste. Category ‘Other’ is followed by PET, PP and LDPE, which are highly recyclable and have reasonably good market value. 
+
+Top 10 plastic items
+The most common items found in plastic waste disposed of in Fiji are water bottles made of PET (1) and soft plastic packaging, amongst others. The majority of items listed are disposable, single-use plastics. The current bans address only some items, and exclude the soft plastic packaging and water bottles, which are the most numerous.
+ 
+If hygiene products were considered, nappies (diapers), tampons and pads would represent 2.5%, making it the top plastic item. 
+
+Plastic leakage across sectors
+In common with other PICs, plastic leakage in Fiji occurs in rural areas and outer islands, where waste collection services are often scarce or non-existent. The problem is compounded by lack of adequate or designated areas for waste disposal. As a consequence, dumping, burying and burning of waste is common, which exacerbates potential plastic leakage into the environment. 
+
+To determine the amount of domestic plastic waste produced each year, we aggregated customs data for imports of raw plastics, food and drink items, and manufactured plastic items. For each item imported, we estimated a lifespan and the percentage of the imported weight consisting of plastic that would likely end up as waste. The total waste generation was taken from customs records provided to APWC, which also enabled the estimation of the percentage of waste going to the managed landfill at Naboro compared with the waste going to semi-managed and unmanaged dumpsites elsewhere. Waste composition was determined from the bagged waste composition along with projections of certain categories of bulky waste based on audits of other countries. The need to use projections here increased the uncertainty in leakage estimates when making comparisons with previously audited countries.
+
+Both the imported and disposed of waste quantities were estimated with error. These uncertainties come from:
+•	sampling error in actual waste audits
+•	uncertainty in bulky waste category projections 
+•	error from conversion between volumes and weights
+•	year-to-year variation in total quantities imported and disposed of
+•	different categorisation of plastics in the import and waste streams
+
+Our estimate of leakage was based on a Bayesian model, which took as input total waste generation and imports for each polymer. It was assumed that the true rate of leakage for each polymer was close to the overall leakage rate, and that waste disposal figures may have a 15 % systematic error and import figures a 10% systematic error in addition to sampling error and year-to-year variation. These assumptions allow us to use the overall rate of leakage to provide more credible estimates for each individual polymer. (See Appendix I for details of the model.) Overall, it was estimated that 24.7% (95% credible interval: 8.5%–40%) or 4,880 tonnes of imported plastic was leaked or held in long-term reservoirs, most of which leaked from commercial sector activities (Table 38). 
+
+Some of the plastic leakage mechanisms identified in Fiji include:
+Street littering, especially in the densely populated urban areas
+Inefficient public rubbish bin maintenance
+Open waste dumping into the ocean, rivers and on land
+Animal scattering of plastics from garbage bags that still occurs regularly 
+Wind-blowing of plastics from the landfill into the surrounding environment (e.g. Sigatoka landfill)
+Toilet flushing (pads, tampons, ear buds, cigarette butts, etc.)
+Backyard burial and burning (semi-controlled disposal) that is common in remote and rural areas
+Plastic leakage from construction sites
+Agricultural leakage
+Leakages from numerous fisheries and other marine activities.
+
+Plastic leakage per polymer type
+Material flow analysis of plastic waste generated and disposed of in Fiji shows that leakage is much lower than in other surveyed locations. More than 70% of plastic waste is going to landfill and less than 1% is exported or recycled (Figure 42). Plastics categories with the highest leakage potential are Plastics Other (7), PVC (3) and PS (6) (Figure 43). 
+
+Policy analysis
+Impact of Bans – Reduce
+Fiji banned single-use plastic bags in January 2020. A ban on importing and manufacturing polystyrene (Styrofoam) containers was introduced in January 2021. Our waste audit indicated that Fiji had a larger than usual quantity of polystyrene products in the waste stream (Table 39), which may be related to the presence of an important polystyrene manufacturer in Fiji (Manubhai Industries). However, apart from polystyrene takeaway containers, the substantial quantities of polystyrene imports could be related to the production of construction goods, which have a long lifespan from manufacture to disposal, and will not enter the waste stream for a number of years. We therefore considered imports of raw polystyrene (but not finished products) to have a life of 30 years.
+
+Although plastic bans in Fiji are reasonably new, there is noticeable consumer behavioural change, with the demand for more environmentally-acceptable alternatives on the rise (Figure 44). Although not reusable, paper straws are more regularly used in cafes and restaurants (pers. comm. Shalend Singh). 
+
+Container deposit legislation – Recycle 
+Potential impact of future bans
+Naboro Landfill was commissioned in 2005 and according to interviews had a footprint of 10 hectares in 2020, which translates to ‘100% full’. It is eventually planned to expand to a footprint of 31 hectares by 2047 (Mani, Harve and Gronert, 2016). Vunato dumpsite has a footprint of 18 hectares and other dumpsites are in the one- to two-hectare range.
+
+Fiji GDP grew by an average of 3.3% per year between 1971 and 2019 (excluding 2020, which saw a large contraction in the Fijian economy). Historical records indicate that Fiji’s total waste disposal has been growing at 6% per year since 2006. Some of this growth is the result of new dumpsites contributing data to the national totals, so the rate of growth of waste disposal at Naboro will be somewhat less than this. Of the two figures, we judge that the GDP growth rate of 3.3% per year is more likely to reflect the increase of waste destined for Naboro Landfill in the future.
+
+Assuming compaction to 1,000 kilograms per cubic metre, we estimate that Naboro Landfill presently houses about 1.15 million cubic metres of waste, and that its planned eventual capacity will be 3.6 million cubic metres (Figure 45). We do not have data on the precise level of compaction at Naboro, and this is a guess based on a site interview indicating that Naboro was ‘very well managed’. While the total number of cubic metres in the landfill depends on the compaction level, the lifetime projections do not depend on this estimate. A lower level of compaction will mean a larger estimated volume of waste in the landfill in 2020 and a lower eventual capacity in 2040.
+
+Projections indicate that the Naboro site may be filled to the eventual planned capacity by around 2040, somewhat earlier than the planned 2047. Removal of all organic material from the waste stream would substantially prolong the lifespan. Recovery of other categories of recyclable material increases the lifespan by around one year for each additional category removed.
+
+Leakage averted
+Our sort data indicate that PET beverage bottles account for 90% of PET waste, while PET beauty and personal care bottles, cooking oil bottles together account for an additional 5% of PET waste. HDPE bottles, including drink bottles, cleaning products and beauty products, accounted for 5% of HDPE waste. This was an unusually low result. Assuming a CDL achieves 80% recovery of the containers that were destined for leakage, the following tables estimate the leakage of PET and HDPE averted by introducing two different types of CDL scheme (Table 41 and Table 42).
